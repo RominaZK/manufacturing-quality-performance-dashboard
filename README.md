@@ -4,6 +4,10 @@
 
 Interactive Power BI dashboard developed to monitor manufacturing performance, quality KPIs, defect trends, and operational metrics.
 
+## Project Objective
+
+To develop an interactive dashboard for monitoring manufacturing performance, quality KPIs, defect trends and operational efficiency using Power BI.
+
 ## Key Features
 
 * Production volume monitoring
@@ -22,7 +26,7 @@ Interactive Power BI dashboard developed to monitor manufacturing performance, q
 
 ## Business Value
 
-This dashboard supports operational monitoring, quality management, and continuous improvement initiatives by providing actionable insights into manufacturing performance and defect patterns.
+The dashboard provides operational visibility into production performance and quality outcomes, helping identify defect patterns, monitor key performance indicators and support continuous improvement initiatives.
 
 ## Key Insights
 
