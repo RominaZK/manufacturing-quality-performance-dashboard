@@ -1,0 +1,1001 @@
+Date,Batch_ID,Product,Supplier,Region,Shift,Production_Tons,Quality_Status,Defect_Type,Resolution_Days,Inspection_Score,Production_Cost_EUR
+2025-01-01,BATCH-0049,Cat Food Standard,Supplier I,Cork,Day,18.06,Pass,No Defect,0,92.9,14915.04
+2025-01-01,BATCH-0869,Dog Food Premium,Supplier B,Limerick,Night,24.87,Pass,No Defect,0,88.8,24846.81
+2025-01-01,BATCH-0264,Dog Food Premium,Supplier H,Limerick,Night,19.75,Pass,No Defect,0,94.1,20150.18
+2025-01-02,BATCH-0394,Cat Food Standard,Supplier C,Galway,Day,19.29,Pass,No Defect,0,91.1,14380.59
+2025-01-02,BATCH-0594,Dog Food Premium,Supplier E,Cork,Night,17.76,Pass,No Defect,0,89.8,17044.3
+2025-01-02,BATCH-0603,Dog Food Premium,Supplier C,Limerick,Night,17.71,Pass,No Defect,0,86.0,17499.51
+2025-01-03,BATCH-0569,Dog Food Premium,Supplier J,Dublin,Day,13.93,Pass,No Defect,0,89.1,12821.82
+2025-01-04,BATCH-0634,Cat Food Premium,Supplier G,Cork,Day,15.98,Pass,No Defect,0,96.9,17033.53
+2025-01-04,BATCH-0472,Cat Food Standard,Supplier I,Dublin,Day,21.31,Pass,No Defect,0,85.4,15008.13
+2025-01-04,BATCH-0444,Cat Food Standard,Supplier F,Dublin,Day,19.06,Pass,No Defect,0,88.1,16803.66
+2025-01-05,BATCH-0214,Livestock Feed,Supplier I,Galway,Day,21.1,Pass,No Defect,0,96.6,15686.79
+2025-01-05,BATCH-0315,Cat Food Standard,Supplier E,Dublin,Night,14.71,Pass,No Defect,0,99.3,11680.71
+2025-01-05,BATCH-0168,Dog Food Premium,Supplier E,Dublin,Day,16.77,Pass,No Defect,0,91.1,14887.03
+2025-01-06,BATCH-0406,Dog Food Standard,Supplier C,Limerick,Night,12.4,Pass,No Defect,0,90.9,8874.17
+2025-01-07,BATCH-0364,Cat Food Premium,Supplier H,Dublin,Night,19.44,Pass,No Defect,0,95.2,20499.22
+2025-01-07,BATCH-0125,Dog Food Premium,Supplier A,Dublin,Day,27.41,Pass,No Defect,0,89.8,24480.4
+2025-01-07,BATCH-0935,Cat Food Premium,Supplier C,Dublin,Day,12.72,Pass,No Defect,0,91.0,13878.83
+2025-01-08,BATCH-0664,Dog Food Premium,Supplier C,Galway,Day,10.64,Pass,No Defect,0,89.2,9550.14
+2025-01-08,BATCH-0221,Livestock Feed,Supplier E,Cork,Day,19.21,Pass,No Defect,0,92.8,12511.04
+2025-01-08,BATCH-0062,Dog Food Premium,Supplier D,Dublin,Night,13.07,Pass,No Defect,0,87.6,13203.87
+2025-01-08,BATCH-0434,Dog Food Standard,Supplier C,Cork,Night,18.95,Pass,No Defect,0,91.9,13273.23
+2025-01-10,BATCH-0975,Cat Food Standard,Supplier F,Dublin,Night,27.1,Pass,No Defect,0,94.9,22086.9
+2025-01-10,BATCH-0563,Dog Food Standard,Supplier G,Cork,Day,19.05,Pass,No Defect,0,96.3,14717.5
+2025-01-10,BATCH-0667,Cat Food Standard,Supplier I,Cork,Day,33.56,Pass,No Defect,0,94.8,29146.26
+2025-01-11,BATCH-0783,Dog Food Standard,Supplier G,Galway,Day,19.46,Pass,No Defect,0,84.9,15155.81
+2025-01-11,BATCH-0803,Livestock Feed,Supplier I,Limerick,Day,18.7,Pass,No Defect,0,87.3,11922.69
+2025-01-11,BATCH-0612,Cat Food Premium,Supplier J,Dublin,Day,14.33,Fail,Packaging,5,75.8,14470.6
+2025-01-11,BATCH-0628,Dog Food Premium,Supplier B,Galway,Day,18.13,Fail,Packaging,10,76.9,17437.18
+2025-01-12,BATCH-0051,Livestock Feed,Supplier H,Cork,Day,12.8,Pass,No Defect,0,93.9,6897.32
+2025-01-13,BATCH-0533,Cat Food Standard,Supplier D,Limerick,Night,13.88,Pass,No Defect,0,89.4,10590.33
+2025-01-13,BATCH-0029,Dog Food Premium,Supplier G,Cork,Night,21.26,Pass,No Defect,0,95.8,20432.64
+2025-01-13,BATCH-0262,Livestock Feed,Supplier G,Dublin,Day,22.76,Pass,No Defect,0,96.0,15614.94
+2025-01-13,BATCH-0377,Cat Food Premium,Supplier J,Galway,Day,12.08,Pass,No Defect,0,91.4,12166.1
+2025-01-14,BATCH-0890,Dog Food Standard,Supplier D,Limerick,Day,19.83,Fail,Microbiological,11,75.4,15024.2
+2025-01-15,BATCH-0644,Dog Food Standard,Supplier E,Dublin,Night,22.89,Pass,No Defect,0,94.7,15318.26
+2025-01-15,BATCH-0906,Dog Food Standard,Supplier D,Galway,Night,19.45,Pass,No Defect,0,85.7,15645.05
+2025-01-15,BATCH-0689,Cat Food Premium,Supplier B,Dublin,Day,23.29,Pass,No Defect,0,90.3,24722.29
+2025-01-16,BATCH-0999,Dog Food Premium,Supplier F,Cork,Night,25.51,Pass,No Defect,0,84.9,26187.9
+2025-01-16,BATCH-0632,Dog Food Premium,Supplier J,Limerick,Day,13.36,Fail,Moisture,15,76.0,12994.66
+2025-01-17,BATCH-0287,Dog Food Standard,Supplier G,Dublin,Day,19.23,Pass,No Defect,0,87.6,15189.65
+2025-01-17,BATCH-0883,Cat Food Premium,Supplier I,Cork,Day,19.92,Pass,No Defect,0,94.5,20746.22
+2025-01-18,BATCH-0392,Dog Food Premium,Supplier C,Cork,Day,9.73,Pass,No Defect,0,97.0,8974.92
+2025-01-18,BATCH-0692,Cat Food Standard,Supplier A,Dublin,Day,20.2,Pass,No Defect,0,100.0,14442.51
+2025-01-18,BATCH-0534,Livestock Feed,Supplier E,Dublin,Day,18.42,Pass,No Defect,0,91.2,9740.3
+2025-01-18,BATCH-0829,Dog Food Standard,Supplier G,Galway,Day,12.04,Pass,No Defect,0,83.9,8438.92
+2025-01-18,BATCH-0027,Cat Food Premium,Supplier F,Galway,Day,14.25,Fail,Packaging,6,63.6,14085.7
+2025-01-20,BATCH-0201,Dog Food Standard,Supplier G,Cork,Day,18.55,Fail,Packaging,7,72.0,16894.31
+2025-01-20,BATCH-0050,Dog Food Premium,Supplier I,Dublin,Day,13.51,Pass,No Defect,0,88.9,14476.64
+2025-01-20,BATCH-0399,Dog Food Standard,Supplier B,Limerick,Day,14.47,Pass,No Defect,0,91.5,11228.73
+2025-01-21,BATCH-0799,Dog Food Premium,Supplier F,Cork,Night,23.83,Pass,No Defect,0,89.6,20970.26
+2025-01-21,BATCH-0851,Dog Food Premium,Supplier B,Dublin,Night,14.75,Pass,No Defect,0,91.7,14698.15
+2025-01-21,BATCH-0228,Dog Food Premium,Supplier E,Cork,Night,21.42,Pass,No Defect,0,87.2,20228.02
+2025-01-22,BATCH-0024,Dog Food Standard,Supplier F,Limerick,Day,8.32,Pass,No Defect,0,100.0,5900.2
+2025-01-23,BATCH-0196,Cat Food Standard,Supplier G,Cork,Night,19.03,Pass,No Defect,0,93.0,14228.57
+2025-01-23,BATCH-0727,Cat Food Standard,Supplier I,Dublin,Day,18.03,Pass,No Defect,0,88.6,13127.79
+2025-01-24,BATCH-0281,Cat Food Standard,Supplier I,Limerick,Day,14.38,Pass,No Defect,0,96.2,11895.79
+2025-01-24,BATCH-0275,Cat Food Standard,Supplier A,Galway,Night,15.95,Pass,No Defect,0,100.0,10758.07
+2025-01-24,BATCH-0642,Livestock Feed,Supplier F,Galway,Day,23.03,Fail,Microbiological,5,71.4,16050.26
+2025-01-25,BATCH-0107,Livestock Feed,Supplier J,Dublin,Day,11.62,Fail,Packaging,1,76.2,6450.69
+2025-01-25,BATCH-0177,Cat Food Standard,Supplier B,Dublin,Day,20.65,Pass,No Defect,0,92.2,16845.65
+2025-01-25,BATCH-0457,Dog Food Premium,Supplier B,Galway,Day,12.97,Fail,Moisture,15,88.3,12437.01
+2025-01-26,BATCH-0614,Dog Food Standard,Supplier C,Cork,Day,15.73,Pass,No Defect,0,92.6,13584.01
+2025-01-26,BATCH-0960,Cat Food Premium,Supplier J,Dublin,Day,20.6,Pass,No Defect,0,94.8,21422.77
+2025-01-26,BATCH-0363,Cat Food Standard,Supplier H,Cork,Night,19.31,Fail,Moisture,1,81.5,16218.79
+2025-01-27,BATCH-0268,Dog Food Premium,Supplier G,Cork,Day,18.3,Pass,No Defect,0,94.8,18238.56
+2025-01-27,BATCH-0989,Dog Food Standard,Supplier F,Cork,Night,19.79,Pass,No Defect,0,90.7,14715.27
+2025-01-27,BATCH-0503,Dog Food Standard,Supplier D,Dublin,Day,15.25,Pass,No Defect,0,93.6,12793.02
+2025-01-28,BATCH-0717,Cat Food Standard,Supplier F,Galway,Night,19.29,Pass,No Defect,0,87.8,17566.72
+2025-01-28,BATCH-0821,Cat Food Premium,Supplier H,Galway,Day,8.64,Pass,No Defect,0,90.6,8463.79
+2025-01-28,BATCH-0052,Dog Food Premium,Supplier I,Dublin,Day,20.86,Fail,Moisture,5,69.5,21657.51
+2025-01-28,BATCH-0462,Cat Food Standard,Supplier A,Limerick,Night,27.84,Pass,No Defect,0,97.6,22073.83
+2025-01-28,BATCH-0787,Dog Food Standard,Supplier C,Cork,Day,21.49,Pass,No Defect,0,88.1,15973.85
+2025-01-28,BATCH-0189,Dog Food Standard,Supplier J,Dublin,Day,14.22,Pass,No Defect,0,96.0,9594.11
+2025-01-28,BATCH-0596,Dog Food Standard,Supplier H,Dublin,Day,20.36,Pass,No Defect,0,89.7,14394.97
+2025-01-29,BATCH-0841,Livestock Feed,Supplier H,Cork,Day,12.51,Pass,No Defect,0,90.5,8014.31
+2025-01-30,BATCH-0447,Dog Food Premium,Supplier B,Galway,Night,17.51,Pass,No Defect,0,92.8,17617.84
+2025-01-30,BATCH-0532,Dog Food Standard,Supplier J,Cork,Night,21.54,Pass,No Defect,0,85.8,19922.75
+2025-01-30,BATCH-0409,Cat Food Standard,Supplier B,Dublin,Day,16.88,Pass,No Defect,0,88.6,12694.43
+2025-01-31,BATCH-0277,Cat Food Standard,Supplier I,Galway,Day,12.64,Pass,No Defect,0,94.7,9186.43
+2025-01-31,BATCH-0777,Dog Food Premium,Supplier I,Dublin,Day,18.18,Pass,No Defect,0,97.2,16796.59
+2025-02-01,BATCH-0371,Livestock Feed,Supplier D,Dublin,Day,27.78,Pass,No Defect,0,95.0,19041.62
+2025-02-01,BATCH-0492,Cat Food Standard,Supplier J,Dublin,Day,24.26,Pass,No Defect,0,86.0,19240.76
+2025-02-01,BATCH-0530,Livestock Feed,Supplier I,Dublin,Day,17.6,Pass,No Defect,0,92.1,10300.44
+2025-02-02,BATCH-0826,Dog Food Standard,Supplier C,Limerick,Day,20.15,Pass,No Defect,0,100.0,16336.86
+2025-02-02,BATCH-0038,Dog Food Standard,Supplier C,Limerick,Day,12.28,Pass,No Defect,0,99.2,9768.48
+2025-02-03,BATCH-0487,Dog Food Standard,Supplier I,Dublin,Day,17.35,Pass,No Defect,0,89.3,12553.81
+2025-02-03,BATCH-0620,Dog Food Premium,Supplier C,Dublin,Night,21.26,Pass,No Defect,0,93.6,18753.87
+2025-02-04,BATCH-0478,Livestock Feed,Supplier A,Galway,Day,22.01,Fail,Composition,15,78.3,12857.82
+2025-02-04,BATCH-0230,Dog Food Standard,Supplier D,Dublin,Day,15.82,Fail,Labelling,6,82.8,12735.66
+2025-02-04,BATCH-0523,Dog Food Standard,Supplier G,Galway,Night,19.82,Pass,No Defect,0,89.6,15433.17
+2025-02-04,BATCH-0779,Cat Food Premium,Supplier E,Dublin,Night,21.48,Pass,No Defect,0,93.5,25019.12
+2025-02-05,BATCH-0167,Dog Food Premium,Supplier A,Cork,Day,10.24,Pass,No Defect,0,96.6,10796.17
+2025-02-06,BATCH-0674,Cat Food Standard,Supplier F,Dublin,Day,17.93,Pass,No Defect,0,93.5,12764.54
+2025-02-07,BATCH-0982,Dog Food Premium,Supplier I,Dublin,Day,8.61,Pass,No Defect,0,94.9,8063.0
+2025-02-07,BATCH-0765,Cat Food Standard,Supplier E,Galway,Night,14.27,Pass,No Defect,0,90.4,11611.53
+2025-02-07,BATCH-0905,Cat Food Standard,Supplier G,Cork,Day,14.49,Pass,No Defect,0,93.0,10388.88
+2025-02-08,BATCH-0126,Cat Food Premium,Supplier D,Limerick,Night,20.15,Pass,No Defect,0,83.2,21451.66
+2025-02-08,BATCH-0425,Cat Food Premium,Supplier A,Galway,Night,20.55,Pass,No Defect,0,96.7,23126.11
+2025-02-09,BATCH-0662,Dog Food Premium,Supplier A,Cork,Night,16.41,Pass,No Defect,0,94.7,15067.85
+2025-02-10,BATCH-0233,Dog Food Premium,Supplier D,Limerick,Night,29.26,Pass,No Defect,0,94.2,27788.52
+2025-02-10,BATCH-0790,Dog Food Standard,Supplier F,Galway,Night,10.61,Pass,No Defect,0,87.9,9128.16
+2025-02-10,BATCH-0715,Cat Food Premium,Supplier H,Dublin,Day,13.12,Pass,No Defect,0,88.0,13542.16
+2025-02-10,BATCH-0276,Cat Food Premium,Supplier B,Galway,Night,24.18,Fail,Composition,13,73.8,24924.61
+2025-02-11,BATCH-0856,Cat Food Premium,Supplier G,Cork,Night,17.37,Pass,No Defect,0,98.9,19234.19
+2025-02-11,BATCH-0255,Cat Food Standard,Supplier C,Dublin,Day,15.46,Pass,No Defect,0,94.5,11525.48
+2025-02-11,BATCH-0080,Dog Food Premium,Supplier A,Cork,Night,15.7,Pass,No Defect,0,88.5,14585.45
+2025-02-11,BATCH-0592,Dog Food Premium,Supplier D,Dublin,Night,21.14,Pass,No Defect,0,94.1,22440.83
+2025-02-12,BATCH-0995,Cat Food Standard,Supplier B,Dublin,Day,18.64,Pass,No Defect,0,90.0,15471.54
+2025-02-12,BATCH-0649,Dog Food Premium,Supplier F,Cork,Day,12.93,Pass,No Defect,0,89.6,11631.77
+2025-02-12,BATCH-0431,Dog Food Premium,Supplier C,Cork,Day,22.62,Fail,Packaging,8,75.0,21565.36
+2025-02-12,BATCH-0699,Dog Food Premium,Supplier J,Galway,Day,19.93,Pass,No Defect,0,100.0,17665.23
+2025-02-13,BATCH-0520,Cat Food Standard,Supplier F,Cork,Day,9.77,Fail,Composition,6,68.1,8893.95
+2025-02-13,BATCH-0430,Livestock Feed,Supplier F,Limerick,Day,12.95,Fail,Moisture,8,71.0,7203.12
+2025-02-14,BATCH-0455,Cat Food Premium,Supplier C,Limerick,Day,20.98,Pass,No Defect,0,100.0,21414.71
+2025-02-14,BATCH-0266,Livestock Feed,Supplier F,Dublin,Day,21.3,Pass,No Defect,0,94.7,14404.21
+2025-02-14,BATCH-0121,Livestock Feed,Supplier C,Limerick,Day,17.24,Pass,No Defect,0,92.9,9850.13
+2025-02-15,BATCH-0053,Dog Food Premium,Supplier F,Limerick,Night,17.34,Pass,No Defect,0,94.8,16916.61
+2025-02-15,BATCH-0738,Cat Food Premium,Supplier H,Limerick,Day,10.42,Pass,No Defect,0,91.5,10157.41
+2025-02-15,BATCH-0439,Cat Food Standard,Supplier I,Limerick,Night,19.75,Pass,No Defect,0,92.4,16435.73
+2025-02-16,BATCH-0929,Dog Food Premium,Supplier I,Dublin,Day,18.42,Pass,No Defect,0,95.6,18014.71
+2025-02-16,BATCH-0442,Cat Food Premium,Supplier F,Galway,Day,18.86,Pass,No Defect,0,86.6,20381.09
+2025-02-16,BATCH-0306,Cat Food Standard,Supplier G,Dublin,Night,16.23,Pass,No Defect,0,88.7,12297.63
+2025-02-16,BATCH-0446,Livestock Feed,Supplier D,Galway,Day,19.38,Pass,No Defect,0,90.2,8132.43
+2025-02-16,BATCH-0587,Livestock Feed,Supplier H,Limerick,Day,26.64,Pass,No Defect,0,92.0,14796.85
+2025-02-16,BATCH-0316,Dog Food Standard,Supplier A,Galway,Day,16.2,Pass,No Defect,0,91.3,11023.08
+2025-02-17,BATCH-0322,Dog Food Premium,Supplier H,Cork,Night,16.85,Pass,No Defect,0,94.0,16469.04
+2025-02-18,BATCH-0190,Dog Food Standard,Supplier D,Galway,Day,14.78,Pass,No Defect,0,98.0,12055.61
+2025-02-18,BATCH-0909,Cat Food Standard,Supplier G,Limerick,Night,20.23,Pass,No Defect,0,95.6,16585.8
+2025-02-18,BATCH-0602,Dog Food Premium,Supplier D,Dublin,Day,15.65,Pass,No Defect,0,92.1,15008.4
+2025-02-19,BATCH-0419,Dog Food Standard,Supplier D,Galway,Day,27.15,Fail,Microbiological,12,81.1,19966.62
+2025-02-19,BATCH-0486,Cat Food Premium,Supplier H,Galway,Day,17.56,Pass,No Defect,0,89.7,18575.91
+2025-02-19,BATCH-0466,Dog Food Premium,Supplier F,Dublin,Night,18.3,Pass,No Defect,0,91.4,16389.11
+2025-02-20,BATCH-0957,Dog Food Premium,Supplier D,Dublin,Day,18.82,Pass,No Defect,0,88.1,19927.45
+2025-02-20,BATCH-0992,Dog Food Premium,Supplier J,Dublin,Night,18.61,Pass,No Defect,0,85.5,20337.61
+2025-02-20,BATCH-0700,Dog Food Standard,Supplier F,Cork,Day,15.86,Pass,No Defect,0,99.3,12449.31
+2025-02-20,BATCH-0252,Dog Food Premium,Supplier E,Dublin,Night,17.53,Pass,No Defect,0,94.9,17420.24
+2025-02-22,BATCH-0904,Cat Food Premium,Supplier A,Cork,Day,12.68,Pass,No Defect,0,88.6,14577.76
+2025-02-22,BATCH-0994,Cat Food Standard,Supplier G,Dublin,Day,17.45,Pass,No Defect,0,94.1,14116.26
+2025-02-22,BATCH-0818,Dog Food Standard,Supplier G,Dublin,Day,17.32,Pass,No Defect,0,92.5,13965.79
+2025-02-22,BATCH-0056,Livestock Feed,Supplier J,Cork,Day,13.76,Pass,No Defect,0,95.2,7758.24
+2025-02-22,BATCH-0269,Dog Food Standard,Supplier I,Dublin,Night,11.55,Pass,No Defect,0,100.0,8328.3
+2025-02-22,BATCH-0655,Dog Food Premium,Supplier D,Dublin,Day,17.99,Pass,No Defect,0,91.3,15022.73
+2025-02-23,BATCH-0782,Dog Food Premium,Supplier B,Limerick,Day,20.83,Pass,No Defect,0,96.6,20025.05
+2025-02-23,BATCH-0873,Cat Food Standard,Supplier C,Dublin,Day,26.93,Pass,No Defect,0,86.9,21410.09
+2025-02-23,BATCH-0441,Cat Food Premium,Supplier A,Cork,Day,9.56,Pass,No Defect,0,87.4,9009.02
+2025-02-23,BATCH-0433,Livestock Feed,Supplier C,Limerick,Day,16.71,Pass,No Defect,0,84.1,11510.29
+2025-02-24,BATCH-0514,Cat Food Standard,Supplier H,Galway,Night,21.92,Pass,No Defect,0,84.4,18791.83
+2025-02-24,BATCH-0333,Livestock Feed,Supplier D,Galway,Day,12.54,Pass,No Defect,0,89.0,7417.64
+2025-02-25,BATCH-0895,Cat Food Standard,Supplier J,Cork,Night,14.85,Pass,No Defect,0,95.3,12947.05
+2025-02-26,BATCH-0956,Cat Food Standard,Supplier A,Dublin,Day,11.71,Pass,No Defect,0,86.4,10219.88
+2025-02-26,BATCH-0574,Cat Food Standard,Supplier C,Cork,Day,18.85,Pass,No Defect,0,99.2,16537.47
+2025-02-26,BATCH-0561,Cat Food Standard,Supplier B,Cork,Night,12.1,Pass,No Defect,0,85.7,10963.87
+2025-02-27,BATCH-0657,Cat Food Premium,Supplier C,Galway,Day,19.19,Pass,No Defect,0,90.2,18663.55
+2025-02-27,BATCH-0378,Dog Food Standard,Supplier G,Dublin,Day,17.65,Pass,No Defect,0,91.0,14356.5
+2025-02-27,BATCH-0933,Cat Food Premium,Supplier C,Cork,Day,19.64,Pass,No Defect,0,98.4,19535.57
+2025-02-28,BATCH-0788,Dog Food Premium,Supplier C,Cork,Night,14.82,Fail,Microbiological,13,63.7,14708.84
+2025-02-28,BATCH-0482,Cat Food Standard,Supplier A,Cork,Day,25.37,Pass,No Defect,0,93.4,22830.34
+2025-02-28,BATCH-0285,Dog Food Standard,Supplier C,Galway,Night,17.79,Pass,No Defect,0,89.2,14426.71
+2025-02-28,BATCH-0865,Livestock Feed,Supplier B,Cork,Night,18.48,Pass,No Defect,0,91.5,10211.28
+2025-02-28,BATCH-0293,Dog Food Standard,Supplier A,Limerick,Day,20.44,Pass,No Defect,0,89.4,17747.25
+2025-03-01,BATCH-0186,Dog Food Premium,Supplier A,Limerick,Day,28.79,Pass,No Defect,0,87.5,27167.89
+2025-03-01,BATCH-0179,Dog Food Standard,Supplier C,Cork,Day,17.5,Pass,No Defect,0,98.6,11729.33
+2025-03-02,BATCH-0213,Livestock Feed,Supplier J,Cork,Night,20.76,Pass,No Defect,0,86.6,12576.44
+2025-03-02,BATCH-0544,Livestock Feed,Supplier C,Cork,Day,16.51,Pass,No Defect,0,97.4,12783.1
+2025-03-02,BATCH-0863,Cat Food Standard,Supplier F,Cork,Night,13.89,Fail,Moisture,11,64.9,12475.38
+2025-03-02,BATCH-0945,Cat Food Standard,Supplier A,Galway,Day,22.95,Pass,No Defect,0,93.8,21303.86
+2025-03-02,BATCH-0791,Dog Food Standard,Supplier A,Limerick,Day,22.53,Pass,No Defect,0,92.5,17248.53
+2025-03-02,BATCH-0774,Livestock Feed,Supplier D,Dublin,Night,12.53,Pass,No Defect,0,93.4,7538.12
+2025-03-03,BATCH-0350,Cat Food Standard,Supplier C,Limerick,Day,13.91,Pass,No Defect,0,94.2,10897.45
+2025-03-03,BATCH-0348,Dog Food Premium,Supplier J,Cork,Night,11.72,Pass,No Defect,0,95.8,11733.92
+2025-03-03,BATCH-0609,Dog Food Standard,Supplier D,Cork,Day,22.16,Pass,No Defect,0,89.7,17120.11
+2025-03-03,BATCH-0961,Dog Food Standard,Supplier C,Limerick,Night,5.61,Pass,No Defect,0,92.4,3707.56
+2025-03-03,BATCH-0605,Livestock Feed,Supplier B,Galway,Day,16.5,Pass,No Defect,0,91.7,9234.45
+2025-03-03,BATCH-0009,Dog Food Standard,Supplier C,Cork,Day,17.59,Pass,No Defect,0,93.3,13862.11
+2025-03-04,BATCH-0750,Cat Food Premium,Supplier A,Cork,Day,13.02,Pass,No Defect,0,92.1,11856.91
+2025-03-04,BATCH-0222,Cat Food Premium,Supplier E,Galway,Day,17.06,Pass,No Defect,0,92.0,18921.99
+2025-03-04,BATCH-0881,Cat Food Premium,Supplier G,Dublin,Day,21.41,Pass,No Defect,0,88.3,24033.42
+2025-03-04,BATCH-0554,Dog Food Standard,Supplier B,Dublin,Night,24.42,Pass,No Defect,0,99.7,15004.05
+2025-03-05,BATCH-0582,Cat Food Premium,Supplier A,Limerick,Day,9.3,Pass,No Defect,0,82.3,9177.72
+2025-03-06,BATCH-0054,Cat Food Premium,Supplier A,Cork,Night,19.29,Pass,No Defect,0,90.9,21681.01
+2025-03-06,BATCH-0279,Livestock Feed,Supplier C,Galway,Night,18.51,Pass,No Defect,0,88.3,10274.12
+2025-03-06,BATCH-0464,Dog Food Standard,Supplier C,Galway,Day,23.71,Pass,No Defect,0,91.3,15554.88
+2025-03-07,BATCH-0860,Cat Food Standard,Supplier C,Dublin,Day,13.61,Pass,No Defect,0,91.2,11402.36
+2025-03-07,BATCH-0583,Dog Food Premium,Supplier B,Limerick,Day,14.18,Pass,No Defect,0,95.3,14342.9
+2025-03-08,BATCH-0815,Cat Food Premium,Supplier C,Cork,Night,15.34,Pass,No Defect,0,88.9,17448.47
+2025-03-08,BATCH-0741,Cat Food Standard,Supplier G,Galway,Day,21.13,Pass,No Defect,0,94.0,15755.08
+2025-03-09,BATCH-0517,Cat Food Standard,Supplier B,Cork,Day,19.12,Pass,No Defect,0,99.4,15280.98
+2025-03-09,BATCH-0323,Livestock Feed,Supplier I,Cork,Night,20.1,Pass,No Defect,0,90.5,11419.54
+2025-03-09,BATCH-0725,Cat Food Premium,Supplier F,Dublin,Day,18.75,Pass,No Defect,0,92.4,18100.06
+2025-03-09,BATCH-0254,Livestock Feed,Supplier I,Cork,Day,16.9,Pass,No Defect,0,87.5,11722.91
+2025-03-09,BATCH-0951,Cat Food Premium,Supplier A,Cork,Day,24.81,Pass,No Defect,0,96.1,24560.8
+2025-03-10,BATCH-0061,Livestock Feed,Supplier E,Dublin,Day,7.69,Pass,No Defect,0,93.9,5848.39
+2025-03-10,BATCH-0044,Dog Food Standard,Supplier I,Cork,Day,16.29,Pass,No Defect,0,96.3,12624.08
+2025-03-10,BATCH-0332,Dog Food Premium,Supplier H,Cork,Day,15.54,Pass,No Defect,0,97.1,15760.12
+2025-03-10,BATCH-0473,Dog Food Standard,Supplier D,Limerick,Night,16.42,Pass,No Defect,0,90.4,11091.94
+2025-03-11,BATCH-0679,Cat Food Premium,Supplier E,Cork,Night,23.02,Pass,No Defect,0,96.1,25251.25
+2025-03-11,BATCH-0618,Cat Food Standard,Supplier F,Limerick,Day,12.63,Pass,No Defect,0,91.1,10450.98
+2025-03-12,BATCH-0926,Cat Food Premium,Supplier B,Dublin,Day,10.62,Pass,No Defect,0,88.5,12301.51
+2025-03-12,BATCH-0521,Cat Food Premium,Supplier C,Dublin,Night,22.62,Fail,Composition,11,64.7,24482.3
+2025-03-12,BATCH-0867,Dog Food Premium,Supplier J,Dublin,Day,19.82,Pass,No Defect,0,89.2,18620.61
+2025-03-12,BATCH-0494,Cat Food Premium,Supplier J,Cork,Day,16.8,Pass,No Defect,0,92.2,18563.38
+2025-03-13,BATCH-0197,Dog Food Standard,Supplier E,Limerick,Day,22.08,Pass,No Defect,0,93.4,18237.95
+2025-03-13,BATCH-0564,Cat Food Premium,Supplier B,Cork,Day,22.99,Pass,No Defect,0,87.6,23743.9
+2025-03-13,BATCH-0749,Cat Food Premium,Supplier J,Dublin,Day,18.97,Pass,No Defect,0,89.3,18384.0
+2025-03-14,BATCH-0475,Cat Food Standard,Supplier B,Galway,Night,11.03,Pass,No Defect,0,85.8,8750.17
+2025-03-14,BATCH-0388,Cat Food Standard,Supplier H,Cork,Night,13.26,Pass,No Defect,0,85.5,12263.4
+2025-03-14,BATCH-0813,Cat Food Standard,Supplier C,Galway,Night,14.54,Pass,No Defect,0,96.7,12791.62
+2025-03-15,BATCH-0506,Livestock Feed,Supplier J,Cork,Night,26.03,Pass,No Defect,0,90.8,16390.93
+2025-03-15,BATCH-0500,Cat Food Premium,Supplier A,Limerick,Night,13.03,Pass,No Defect,0,92.3,12887.29
+2025-03-15,BATCH-0123,Dog Food Standard,Supplier B,Dublin,Day,18.97,Pass,No Defect,0,90.2,15639.21
+2025-03-15,BATCH-0206,Livestock Feed,Supplier D,Dublin,Day,5.0,Pass,No Defect,0,80.8,3051.73
+2025-03-15,BATCH-0295,Cat Food Standard,Supplier J,Limerick,Day,11.38,Pass,No Defect,0,92.2,8916.78
+2025-03-15,BATCH-0319,Cat Food Standard,Supplier J,Galway,Day,14.86,Fail,Labelling,11,88.1,11395.28
+2025-03-17,BATCH-0898,Dog Food Premium,Supplier H,Limerick,Night,13.15,Pass,No Defect,0,88.4,11913.48
+2025-03-17,BATCH-0237,Cat Food Premium,Supplier F,Dublin,Day,16.92,Pass,No Defect,0,95.6,18584.82
+2025-03-19,BATCH-0165,Cat Food Premium,Supplier I,Cork,Night,26.2,Pass,No Defect,0,88.8,30147.35
+2025-03-21,BATCH-0638,Cat Food Standard,Supplier C,Cork,Day,20.54,Pass,No Defect,0,90.5,16772.07
+2025-03-21,BATCH-0590,Livestock Feed,Supplier F,Cork,Night,18.36,Pass,No Defect,0,95.2,10209.63
+2025-03-23,BATCH-0880,Cat Food Premium,Supplier J,Galway,Day,19.96,Pass,No Defect,0,96.8,21654.74
+2025-03-24,BATCH-0180,Dog Food Premium,Supplier E,Dublin,Day,16.06,Pass,No Defect,0,95.5,15903.01
+2025-03-24,BATCH-0758,Dog Food Premium,Supplier E,Limerick,Day,5.0,Pass,No Defect,0,90.0,5307.76
+2025-03-25,BATCH-0550,Dog Food Premium,Supplier E,Cork,Day,23.97,Pass,No Defect,0,90.2,25741.92
+2025-03-25,BATCH-0043,Cat Food Standard,Supplier F,Dublin,Day,14.93,Fail,Labelling,3,71.8,13955.65
+2025-03-25,BATCH-0704,Dog Food Standard,Supplier J,Dublin,Day,7.98,Pass,No Defect,0,84.4,6471.06
+2025-03-26,BATCH-0627,Livestock Feed,Supplier C,Cork,Day,10.34,Pass,No Defect,0,89.3,6427.53
+2025-03-27,BATCH-0356,Dog Food Premium,Supplier H,Galway,Night,9.24,Fail,Composition,11,69.8,8208.31
+2025-03-27,BATCH-0133,Dog Food Premium,Supplier A,Cork,Day,18.19,Pass,No Defect,0,88.5,17532.41
+2025-03-27,BATCH-0820,Dog Food Premium,Supplier H,Cork,Day,21.55,Pass,No Defect,0,91.3,24683.33
+2025-03-27,BATCH-0012,Livestock Feed,Supplier J,Limerick,Day,15.35,Pass,No Defect,0,90.3,9989.72
+2025-03-28,BATCH-0912,Livestock Feed,Supplier A,Cork,Night,29.11,Pass,No Defect,0,87.9,18357.48
+2025-03-28,BATCH-0558,Cat Food Standard,Supplier B,Limerick,Day,20.95,Pass,No Defect,0,89.4,17363.67
+2025-03-28,BATCH-0093,Livestock Feed,Supplier B,Limerick,Day,14.88,Pass,No Defect,0,88.9,11521.32
+2025-03-28,BATCH-0253,Dog Food Standard,Supplier B,Limerick,Night,20.24,Pass,No Defect,0,91.6,13474.73
+2025-03-28,BATCH-0593,Cat Food Premium,Supplier D,Dublin,Day,14.51,Pass,No Defect,0,96.4,15415.59
+2025-03-28,BATCH-0801,Livestock Feed,Supplier J,Cork,Night,12.22,Pass,No Defect,0,95.3,6440.8
+2025-03-29,BATCH-0536,Dog Food Standard,Supplier G,Cork,Night,19.64,Pass,No Defect,0,92.8,15916.63
+2025-03-29,BATCH-0848,Cat Food Standard,Supplier B,Limerick,Day,21.45,Pass,No Defect,0,95.4,16189.72
+2025-03-29,BATCH-0734,Livestock Feed,Supplier J,Cork,Day,21.96,Pass,No Defect,0,92.2,11434.06
+2025-03-29,BATCH-0739,Dog Food Premium,Supplier B,Cork,Night,7.92,Pass,No Defect,0,90.7,7521.28
+2025-03-30,BATCH-0004,Livestock Feed,Supplier B,Cork,Day,21.9,Pass,No Defect,0,91.9,12131.16
+2025-03-30,BATCH-0577,Dog Food Standard,Supplier A,Limerick,Day,5.54,Pass,No Defect,0,98.9,4242.54
+2025-03-30,BATCH-0292,Livestock Feed,Supplier G,Dublin,Day,20.74,Pass,No Defect,0,93.8,12135.62
+2025-03-30,BATCH-0297,Cat Food Standard,Supplier A,Galway,Day,23.04,Fail,Microbiological,7,59.1,17946.37
+2025-03-30,BATCH-0424,Livestock Feed,Supplier H,Dublin,Day,20.17,Pass,No Defect,0,97.0,12975.52
+2025-03-30,BATCH-0773,Dog Food Premium,Supplier A,Dublin,Night,16.95,Pass,No Defect,0,82.9,15692.97
+2025-03-30,BATCH-0762,Cat Food Premium,Supplier J,Limerick,Day,21.57,Pass,No Defect,0,91.5,23417.66
+2025-03-30,BATCH-0218,Dog Food Standard,Supplier C,Cork,Day,16.71,Pass,No Defect,0,89.0,11968.25
+2025-04-02,BATCH-0838,Cat Food Premium,Supplier H,Cork,Day,14.22,Fail,Microbiological,9,69.2,15238.53
+2025-04-02,BATCH-0030,Cat Food Premium,Supplier G,Galway,Day,15.94,Pass,No Defect,0,95.0,17306.67
+2025-04-02,BATCH-0347,Dog Food Premium,Supplier F,Galway,Night,23.36,Pass,No Defect,0,98.8,23159.99
+2025-04-03,BATCH-0687,Dog Food Premium,Supplier A,Limerick,Night,18.49,Fail,Packaging,4,75.2,18603.9
+2025-04-03,BATCH-0367,Dog Food Standard,Supplier J,Dublin,Day,19.66,Pass,No Defect,0,90.5,15981.04
+2025-04-03,BATCH-0897,Cat Food Standard,Supplier F,Galway,Day,21.88,Pass,No Defect,0,95.7,17981.61
+2025-04-03,BATCH-0693,Dog Food Standard,Supplier J,Dublin,Day,19.28,Pass,No Defect,0,87.4,16236.03
+2025-04-04,BATCH-0510,Dog Food Premium,Supplier E,Cork,Night,11.05,Pass,No Defect,0,88.2,10933.6
+2025-04-04,BATCH-0294,Cat Food Standard,Supplier G,Galway,Night,19.53,Pass,No Defect,0,91.2,17250.46
+2025-04-04,BATCH-0810,Dog Food Premium,Supplier G,Cork,Night,17.33,Pass,No Defect,0,92.5,16544.86
+2025-04-05,BATCH-0313,Dog Food Standard,Supplier G,Dublin,Night,15.65,Pass,No Defect,0,91.2,11919.4
+2025-04-05,BATCH-0448,Livestock Feed,Supplier I,Limerick,Day,10.27,Pass,No Defect,0,81.9,7077.84
+2025-04-06,BATCH-0111,Cat Food Standard,Supplier G,Dublin,Day,15.22,Pass,No Defect,0,91.9,11014.34
+2025-04-06,BATCH-0423,Dog Food Standard,Supplier J,Dublin,Day,13.06,Pass,No Defect,0,93.1,9262.01
+2025-04-06,BATCH-0272,Cat Food Premium,Supplier A,Dublin,Night,17.15,Fail,Moisture,9,74.1,18161.44
+2025-04-06,BATCH-0892,Livestock Feed,Supplier F,Dublin,Day,5.0,Fail,Labelling,1,77.7,3071.65
+2025-04-07,BATCH-0509,Dog Food Premium,Supplier E,Limerick,Day,23.34,Pass,No Defect,0,89.8,23115.9
+2025-04-07,BATCH-0025,Cat Food Premium,Supplier A,Dublin,Night,17.31,Pass,No Defect,0,92.2,18046.58
+2025-04-07,BATCH-0615,Dog Food Standard,Supplier G,Cork,Day,17.49,Pass,No Defect,0,89.0,15220.4
+2025-04-07,BATCH-0018,Dog Food Premium,Supplier F,Galway,Night,21.59,Pass,No Defect,0,92.3,19925.66
+2025-04-08,BATCH-0101,Cat Food Premium,Supplier I,Cork,Day,15.52,Pass,No Defect,0,97.6,14568.82
+2025-04-08,BATCH-0055,Dog Food Premium,Supplier A,Dublin,Day,19.13,Pass,No Defect,0,98.6,18938.43
+2025-04-09,BATCH-0410,Dog Food Standard,Supplier E,Limerick,Night,20.46,Pass,No Defect,0,93.4,15110.08
+2025-04-09,BATCH-0477,Dog Food Standard,Supplier F,Dublin,Day,16.88,Pass,No Defect,0,92.0,13319.26
+2025-04-09,BATCH-0022,Livestock Feed,Supplier B,Dublin,Day,12.04,Pass,No Defect,0,96.7,7939.09
+2025-04-10,BATCH-0249,Dog Food Standard,Supplier H,Cork,Day,15.85,Pass,No Defect,0,88.1,12093.15
+2025-04-10,BATCH-0163,Dog Food Standard,Supplier J,Limerick,Night,16.75,Pass,No Defect,0,87.4,13235.31
+2025-04-11,BATCH-0075,Dog Food Premium,Supplier I,Cork,Day,16.98,Pass,No Defect,0,94.3,17018.52
+2025-04-11,BATCH-0923,Cat Food Standard,Supplier B,Galway,Day,24.05,Pass,No Defect,0,92.4,20735.03
+2025-04-11,BATCH-0426,Cat Food Premium,Supplier G,Cork,Day,9.66,Pass,No Defect,0,90.3,10756.64
+2025-04-11,BATCH-0069,Dog Food Standard,Supplier J,Galway,Day,17.03,Pass,No Defect,0,94.0,12732.07
+2025-04-12,BATCH-0308,Cat Food Standard,Supplier I,Dublin,Night,16.23,Pass,No Defect,0,95.2,12940.22
+2025-04-12,BATCH-0922,Dog Food Standard,Supplier F,Galway,Night,12.58,Pass,No Defect,0,86.1,10059.65
+2025-04-12,BATCH-0280,Dog Food Standard,Supplier F,Galway,Night,30.06,Fail,Composition,6,80.3,24260.71
+2025-04-13,BATCH-0640,Dog Food Standard,Supplier A,Limerick,Night,24.62,Pass,No Defect,0,85.6,18481.34
+2025-04-13,BATCH-0001,Cat Food Standard,Supplier H,Cork,Day,21.84,Pass,No Defect,0,98.3,17293.6
+2025-04-14,BATCH-0429,Dog Food Premium,Supplier G,Dublin,Night,27.71,Pass,No Defect,0,94.7,25695.5
+2025-04-14,BATCH-0105,Dog Food Standard,Supplier G,Dublin,Day,23.72,Fail,Labelling,6,59.9,16149.5
+2025-04-14,BATCH-0286,Livestock Feed,Supplier E,Cork,Day,25.35,Pass,No Defect,0,99.1,16211.98
+2025-04-14,BATCH-0619,Dog Food Premium,Supplier E,Cork,Night,12.21,Pass,No Defect,0,90.7,12110.6
+2025-04-14,BATCH-0726,Cat Food Premium,Supplier G,Dublin,Night,18.31,Pass,No Defect,0,95.2,18332.93
+2025-04-14,BATCH-0028,Cat Food Standard,Supplier F,Cork,Day,19.52,Pass,No Defect,0,87.3,16307.64
+2025-04-15,BATCH-0861,Dog Food Premium,Supplier J,Limerick,Day,27.66,Pass,No Defect,0,99.0,29535.0
+2025-04-15,BATCH-0505,Dog Food Standard,Supplier D,Galway,Day,19.9,Pass,No Defect,0,97.0,13968.15
+2025-04-15,BATCH-0753,Dog Food Standard,Supplier G,Galway,Day,20.41,Pass,No Defect,0,88.5,14689.91
+2025-04-16,BATCH-0416,Dog Food Premium,Supplier E,Galway,Day,13.97,Pass,No Defect,0,99.4,12562.73
+2025-04-16,BATCH-0781,Cat Food Premium,Supplier J,Dublin,Day,14.37,Pass,No Defect,0,86.7,16076.5
+2025-04-16,BATCH-0723,Dog Food Premium,Supplier A,Cork,Night,18.12,Pass,No Defect,0,95.4,19226.42
+2025-04-16,BATCH-0604,Dog Food Standard,Supplier A,Limerick,Day,23.31,Pass,No Defect,0,88.9,17613.08
+2025-04-17,BATCH-0573,Cat Food Standard,Supplier C,Limerick,Night,13.39,Pass,No Defect,0,92.6,9049.09
+2025-04-17,BATCH-0328,Cat Food Premium,Supplier A,Limerick,Night,23.0,Pass,No Defect,0,91.2,23822.83
+2025-04-17,BATCH-0972,Dog Food Standard,Supplier E,Dublin,Day,13.73,Fail,Composition,1,73.8,9904.95
+2025-04-17,BATCH-0345,Livestock Feed,Supplier B,Galway,Day,27.1,Fail,Composition,13,60.7,18763.85
+2025-04-17,BATCH-0833,Dog Food Standard,Supplier J,Dublin,Day,11.15,Pass,No Defect,0,86.9,8533.03
+2025-04-18,BATCH-0422,Dog Food Premium,Supplier H,Dublin,Night,12.97,Pass,No Defect,0,90.4,12442.92
+2025-04-18,BATCH-0512,Dog Food Premium,Supplier E,Limerick,Day,12.53,Pass,No Defect,0,99.0,12940.14
+2025-04-18,BATCH-0555,Dog Food Standard,Supplier F,Limerick,Night,18.59,Pass,No Defect,0,95.9,13905.69
+2025-04-19,BATCH-0242,Cat Food Premium,Supplier A,Limerick,Night,18.72,Pass,No Defect,0,95.1,18965.49
+2025-04-19,BATCH-0673,Cat Food Standard,Supplier J,Limerick,Day,14.57,Pass,No Defect,0,100.0,13367.0
+2025-04-19,BATCH-0068,Cat Food Premium,Supplier D,Cork,Day,12.81,Pass,No Defect,0,94.6,13304.21
+2025-04-19,BATCH-0300,Dog Food Standard,Supplier G,Limerick,Night,17.36,Pass,No Defect,0,89.0,14767.62
+2025-04-20,BATCH-0351,Dog Food Premium,Supplier D,Limerick,Day,24.54,Pass,No Defect,0,91.4,25137.75
+2025-04-20,BATCH-0981,Dog Food Standard,Supplier I,Limerick,Day,19.93,Pass,No Defect,0,90.8,15869.22
+2025-04-20,BATCH-0834,Dog Food Premium,Supplier D,Dublin,Day,16.07,Pass,No Defect,0,95.9,15974.31
+2025-04-21,BATCH-0460,Dog Food Standard,Supplier C,Limerick,Day,15.52,Pass,No Defect,0,97.8,12349.86
+2025-04-21,BATCH-0136,Cat Food Standard,Supplier G,Galway,Day,17.5,Pass,No Defect,0,94.2,15923.49
+2025-04-21,BATCH-0742,Dog Food Premium,Supplier D,Dublin,Day,25.75,Pass,No Defect,0,86.0,26455.74
+2025-04-21,BATCH-0454,Livestock Feed,Supplier C,Limerick,Day,16.84,Pass,No Defect,0,91.5,10428.66
+2025-04-22,BATCH-0976,Cat Food Premium,Supplier A,Dublin,Day,19.93,Pass,No Defect,0,94.6,22551.95
+2025-04-22,BATCH-0889,Cat Food Standard,Supplier F,Cork,Day,12.76,Pass,No Defect,0,86.2,10596.95
+2025-04-23,BATCH-0193,Cat Food Standard,Supplier C,Galway,Day,9.7,Pass,No Defect,0,93.2,7231.55
+2025-04-23,BATCH-0682,Dog Food Standard,Supplier A,Limerick,Day,16.02,Pass,No Defect,0,87.7,13107.6
+2025-04-23,BATCH-0493,Dog Food Standard,Supplier G,Limerick,Night,18.17,Pass,No Defect,0,91.6,13211.65
+2025-04-23,BATCH-0408,Dog Food Standard,Supplier I,Dublin,Day,20.25,Pass,No Defect,0,96.4,13118.17
+2025-04-25,BATCH-0697,Livestock Feed,Supplier C,Dublin,Day,21.85,Pass,No Defect,0,92.6,16669.43
+2025-04-25,BATCH-0040,Dog Food Standard,Supplier D,Galway,Day,17.55,Pass,No Defect,0,97.1,12805.31
+2025-04-26,BATCH-0134,Dog Food Standard,Supplier G,Dublin,Day,15.14,Pass,No Defect,0,91.7,12026.53
+2025-04-26,BATCH-0182,Dog Food Standard,Supplier C,Cork,Day,22.39,Pass,No Defect,0,91.2,18040.34
+2025-04-26,BATCH-0303,Dog Food Standard,Supplier E,Cork,Day,18.67,Pass,No Defect,0,89.4,15720.33
+2025-04-26,BATCH-0740,Cat Food Standard,Supplier A,Dublin,Day,27.0,Pass,No Defect,0,96.7,23531.41
+2025-04-26,BATCH-0485,Cat Food Premium,Supplier A,Dublin,Day,11.99,Pass,No Defect,0,87.7,12442.86
+2025-04-26,BATCH-0380,Cat Food Standard,Supplier D,Cork,Day,14.11,Fail,Microbiological,1,65.1,12157.17
+2025-04-27,BATCH-0595,Dog Food Premium,Supplier I,Dublin,Night,10.03,Pass,No Defect,0,91.9,10082.58
+2025-04-27,BATCH-0131,Cat Food Premium,Supplier H,Dublin,Day,15.52,Fail,Microbiological,2,93.8,17249.1
+2025-04-27,BATCH-0724,Dog Food Standard,Supplier D,Limerick,Day,16.22,Pass,No Defect,0,85.9,11062.39
+2025-04-28,BATCH-0964,Livestock Feed,Supplier C,Galway,Day,22.32,Fail,Packaging,8,86.8,13700.66
+2025-04-28,BATCH-0034,Cat Food Standard,Supplier H,Limerick,Day,14.06,Pass,No Defect,0,90.6,13151.97
+2025-04-28,BATCH-0334,Cat Food Standard,Supplier G,Limerick,Night,28.28,Pass,No Defect,0,96.1,21270.71
+2025-04-29,BATCH-0452,Cat Food Premium,Supplier J,Dublin,Day,18.7,Pass,No Defect,0,94.0,21417.44
+2025-04-29,BATCH-0902,Dog Food Premium,Supplier F,Dublin,Day,6.22,Pass,No Defect,0,87.0,6338.21
+2025-04-29,BATCH-0939,Dog Food Standard,Supplier I,Cork,Day,20.54,Pass,No Defect,0,94.3,16572.13
+2025-04-29,BATCH-0568,Dog Food Premium,Supplier B,Cork,Night,17.3,Pass,No Defect,0,92.8,18204.89
+2025-04-30,BATCH-0232,Cat Food Standard,Supplier D,Dublin,Day,21.73,Fail,Packaging,9,90.7,16663.54
+2025-04-30,BATCH-0983,Cat Food Standard,Supplier C,Dublin,Day,12.42,Pass,No Defect,0,88.0,11739.17
+2025-04-30,BATCH-0147,Cat Food Standard,Supplier F,Dublin,Day,14.56,Pass,No Defect,0,92.2,11824.83
+2025-04-30,BATCH-0974,Cat Food Standard,Supplier E,Dublin,Night,30.62,Pass,No Defect,0,99.9,22542.62
+2025-04-30,BATCH-0907,Cat Food Standard,Supplier G,Dublin,Day,16.91,Pass,No Defect,0,86.9,13218.97
+2025-05-01,BATCH-0162,Cat Food Standard,Supplier H,Galway,Day,23.35,Pass,No Defect,0,86.8,17867.96
+2025-05-01,BATCH-0925,Cat Food Standard,Supplier H,Cork,Day,22.23,Pass,No Defect,0,88.6,15297.02
+2025-05-01,BATCH-0955,Livestock Feed,Supplier F,Dublin,Day,17.68,Pass,No Defect,0,100.0,10030.76
+2025-05-02,BATCH-0405,Dog Food Standard,Supplier D,Galway,Day,9.94,Pass,No Defect,0,93.2,7852.25
+2025-05-02,BATCH-0709,Dog Food Standard,Supplier A,Cork,Night,8.66,Pass,No Defect,0,90.5,7627.92
+2025-05-02,BATCH-0498,Dog Food Standard,Supplier G,Dublin,Night,13.54,Pass,No Defect,0,88.1,10550.07
+2025-05-02,BATCH-0440,Dog Food Standard,Supplier F,Cork,Night,8.87,Pass,No Defect,0,94.0,7243.37
+2025-05-02,BATCH-0063,Dog Food Standard,Supplier E,Dublin,Day,17.04,Pass,No Defect,0,86.3,13009.16
+2025-05-03,BATCH-0329,Cat Food Standard,Supplier J,Cork,Day,24.98,Pass,No Defect,0,90.4,22730.35
+2025-05-04,BATCH-0118,Dog Food Standard,Supplier H,Galway,Day,22.54,Pass,No Defect,0,92.4,17178.94
+2025-05-05,BATCH-0804,Cat Food Premium,Supplier D,Galway,Day,23.95,Pass,No Defect,0,87.2,26611.31
+2025-05-05,BATCH-0971,Livestock Feed,Supplier E,Dublin,Day,14.67,Pass,No Defect,0,87.5,7513.87
+2025-05-06,BATCH-0463,Cat Food Premium,Supplier F,Dublin,Day,26.15,Pass,No Defect,0,94.0,25825.03
+2025-05-06,BATCH-0048,Cat Food Premium,Supplier B,Cork,Day,19.61,Pass,No Defect,0,87.3,19617.18
+2025-05-06,BATCH-0194,Livestock Feed,Supplier H,Cork,Day,20.0,Fail,Moisture,6,78.8,11618.37
+2025-05-06,BATCH-0250,Cat Food Premium,Supplier A,Galway,Day,27.46,Pass,No Defect,0,91.4,28071.65
+2025-05-07,BATCH-0845,Cat Food Premium,Supplier C,Galway,Day,21.33,Pass,No Defect,0,94.7,24227.08
+2025-05-07,BATCH-0137,Cat Food Premium,Supplier J,Cork,Night,28.82,Pass,No Defect,0,90.8,27567.63
+2025-05-08,BATCH-0427,Livestock Feed,Supplier F,Dublin,Night,19.22,Pass,No Defect,0,99.6,12044.72
+2025-05-08,BATCH-0670,Dog Food Premium,Supplier G,Limerick,Night,21.33,Pass,No Defect,0,91.0,20823.26
+2025-05-08,BATCH-0369,Dog Food Premium,Supplier C,Dublin,Day,17.81,Pass,No Defect,0,93.3,19105.55
+2025-05-08,BATCH-0802,Cat Food Standard,Supplier H,Dublin,Day,13.99,Pass,No Defect,0,93.0,10171.08
+2025-05-09,BATCH-0502,Dog Food Premium,Supplier E,Cork,Night,14.6,Pass,No Defect,0,99.0,13585.94
+2025-05-10,BATCH-0610,Dog Food Standard,Supplier E,Cork,Night,15.7,Pass,No Defect,0,88.1,10914.79
+2025-05-11,BATCH-0225,Livestock Feed,Supplier J,Dublin,Day,13.39,Fail,Composition,3,70.9,9599.59
+2025-05-12,BATCH-0991,Cat Food Standard,Supplier I,Cork,Day,19.29,Pass,No Defect,0,95.8,14700.78
+2025-05-12,BATCH-0713,Cat Food Standard,Supplier B,Limerick,Day,21.32,Pass,No Defect,0,94.9,18729.79
+2025-05-14,BATCH-0224,Cat Food Standard,Supplier I,Cork,Night,17.54,Pass,No Defect,0,93.2,12025.37
+2025-05-15,BATCH-0650,Dog Food Premium,Supplier A,Dublin,Day,16.04,Pass,No Defect,0,93.7,15493.64
+2025-05-15,BATCH-0874,Cat Food Premium,Supplier E,Dublin,Day,24.53,Pass,No Defect,0,94.4,23431.78
+2025-05-16,BATCH-0732,Cat Food Standard,Supplier H,Dublin,Night,19.48,Pass,No Defect,0,98.1,15650.4
+2025-05-16,BATCH-0967,Cat Food Premium,Supplier B,Cork,Day,26.1,Pass,No Defect,0,94.5,28012.85
+2025-05-17,BATCH-0273,Livestock Feed,Supplier D,Galway,Night,21.78,Pass,No Defect,0,91.1,13417.94
+2025-05-17,BATCH-0387,Dog Food Standard,Supplier H,Cork,Day,5.0,Pass,No Defect,0,92.3,3743.93
+2025-05-17,BATCH-0014,Cat Food Premium,Supplier A,Dublin,Day,19.07,Pass,No Defect,0,90.0,17709.57
+2025-05-17,BATCH-0076,Dog Food Premium,Supplier C,Dublin,Night,17.4,Pass,No Defect,0,89.6,17170.73
+2025-05-17,BATCH-0876,Cat Food Premium,Supplier B,Dublin,Night,22.48,Pass,No Defect,0,93.4,21256.59
+2025-05-18,BATCH-0729,Dog Food Premium,Supplier F,Dublin,Night,28.66,Pass,No Defect,0,92.6,30252.6
+2025-05-18,BATCH-0752,Cat Food Premium,Supplier B,Galway,Day,17.26,Pass,No Defect,0,91.8,16078.97
+2025-05-18,BATCH-0996,Dog Food Standard,Supplier E,Limerick,Night,14.15,Pass,No Defect,0,92.8,11971.81
+2025-05-18,BATCH-0336,Cat Food Premium,Supplier C,Dublin,Day,11.11,Pass,No Defect,0,93.7,11289.02
+2025-05-19,BATCH-0720,Cat Food Premium,Supplier C,Cork,Night,11.61,Pass,No Defect,0,92.2,12370.72
+2025-05-19,BATCH-0382,Cat Food Premium,Supplier A,Dublin,Day,10.83,Pass,No Defect,0,93.9,10684.45
+2025-05-19,BATCH-0877,Dog Food Premium,Supplier J,Galway,Night,16.41,Pass,No Defect,0,97.7,16127.52
+2025-05-20,BATCH-0944,Cat Food Premium,Supplier J,Cork,Day,16.76,Fail,Composition,8,80.1,17830.24
+2025-05-21,BATCH-0338,Livestock Feed,Supplier B,Dublin,Night,21.79,Pass,No Defect,0,86.8,13499.97
+2025-05-21,BATCH-0178,Livestock Feed,Supplier D,Cork,Day,20.7,Pass,No Defect,0,93.9,11241.14
+2025-05-21,BATCH-0962,Livestock Feed,Supplier I,Limerick,Day,19.53,Pass,No Defect,0,91.0,11230.27
+2025-05-21,BATCH-0744,Cat Food Premium,Supplier D,Cork,Day,21.24,Pass,No Defect,0,90.3,20227.42
+2025-05-22,BATCH-0840,Cat Food Standard,Supplier G,Cork,Day,18.14,Pass,No Defect,0,94.0,13725.21
+2025-05-22,BATCH-0211,Cat Food Standard,Supplier J,Limerick,Day,12.68,Pass,No Defect,0,89.8,10631.21
+2025-05-22,BATCH-0894,Livestock Feed,Supplier A,Galway,Day,15.27,Pass,No Defect,0,88.3,11131.91
+2025-05-22,BATCH-0735,Cat Food Standard,Supplier D,Dublin,Day,14.2,Pass,No Defect,0,93.8,11915.92
+2025-05-23,BATCH-0155,Cat Food Standard,Supplier I,Cork,Day,16.84,Pass,No Defect,0,92.2,14264.59
+2025-05-23,BATCH-0216,Dog Food Premium,Supplier E,Galway,Day,18.43,Pass,No Defect,0,95.2,18767.77
+2025-05-23,BATCH-0174,Livestock Feed,Supplier E,Cork,Day,28.96,Pass,No Defect,0,92.1,19137.91
+2025-05-24,BATCH-0678,Cat Food Standard,Supplier J,Dublin,Night,13.96,Pass,No Defect,0,90.0,11432.54
+2025-05-24,BATCH-0159,Dog Food Premium,Supplier B,Cork,Night,18.32,Pass,No Defect,0,87.8,18315.58
+2025-05-25,BATCH-0684,Dog Food Premium,Supplier F,Galway,Night,12.19,Pass,No Defect,0,95.0,10681.24
+2025-05-25,BATCH-0151,Cat Food Standard,Supplier H,Galway,Day,21.76,Pass,No Defect,0,92.7,18938.84
+2025-05-26,BATCH-0404,Dog Food Premium,Supplier E,Cork,Night,19.17,Pass,No Defect,0,89.8,18500.74
+2025-05-27,BATCH-0384,Dog Food Premium,Supplier B,Galway,Day,21.39,Pass,No Defect,0,86.2,20647.38
+2025-05-27,BATCH-0019,Dog Food Standard,Supplier G,Dublin,Night,16.39,Pass,No Defect,0,88.9,13256.41
+2025-05-29,BATCH-0527,Dog Food Premium,Supplier G,Limerick,Day,20.56,Pass,No Defect,0,95.1,19640.74
+2025-05-29,BATCH-0087,Dog Food Standard,Supplier E,Dublin,Night,16.76,Fail,Moisture,15,82.4,12671.76
+2025-05-29,BATCH-0390,Dog Food Standard,Supplier A,Limerick,Day,19.74,Pass,No Defect,0,90.0,14134.86
+2025-05-29,BATCH-0938,Dog Food Premium,Supplier A,Cork,Day,12.67,Pass,No Defect,0,99.8,12377.42
+2025-05-29,BATCH-0903,Cat Food Premium,Supplier G,Dublin,Day,19.26,Pass,No Defect,0,87.5,19579.68
+2025-05-30,BATCH-0965,Dog Food Standard,Supplier H,Cork,Day,12.51,Pass,No Defect,0,89.9,9289.93
+2025-05-30,BATCH-0696,Dog Food Standard,Supplier A,Dublin,Day,20.75,Pass,No Defect,0,96.3,14638.61
+2025-05-31,BATCH-0636,Dog Food Standard,Supplier A,Limerick,Day,31.78,Pass,No Defect,0,96.4,23570.06
+2025-05-31,BATCH-0415,Dog Food Premium,Supplier J,Galway,Night,26.84,Pass,No Defect,0,91.5,27111.17
+2025-06-01,BATCH-0188,Dog Food Premium,Supplier D,Galway,Day,24.0,Pass,No Defect,0,94.3,22574.07
+2025-06-01,BATCH-0337,Cat Food Premium,Supplier I,Cork,Day,23.28,Pass,No Defect,0,96.3,24444.62
+2025-06-01,BATCH-0963,Cat Food Standard,Supplier G,Dublin,Night,21.3,Pass,No Defect,0,95.2,16980.5
+2025-06-02,BATCH-0079,Dog Food Standard,Supplier G,Cork,Day,25.16,Pass,No Defect,0,82.8,20955.34
+2025-06-02,BATCH-0100,Cat Food Premium,Supplier G,Dublin,Day,22.56,Pass,No Defect,0,85.2,22447.36
+2025-06-02,BATCH-0469,Dog Food Premium,Supplier B,Limerick,Day,15.81,Pass,No Defect,0,98.2,15630.72
+2025-06-03,BATCH-0504,Cat Food Standard,Supplier C,Dublin,Day,23.91,Pass,No Defect,0,89.7,20296.11
+2025-06-03,BATCH-0089,Dog Food Premium,Supplier E,Cork,Night,18.88,Pass,No Defect,0,96.4,16984.87
+2025-06-04,BATCH-0296,Dog Food Premium,Supplier C,Limerick,Day,17.96,Pass,No Defect,0,95.0,18263.56
+2025-06-05,BATCH-0248,Cat Food Premium,Supplier I,Cork,Day,24.52,Pass,No Defect,0,94.0,23300.14
+2025-06-05,BATCH-0379,Cat Food Standard,Supplier G,Cork,Day,16.17,Pass,No Defect,0,96.7,12677.89
+2025-06-05,BATCH-0921,Cat Food Premium,Supplier A,Cork,Day,6.33,Pass,No Defect,0,87.5,7121.04
+2025-06-05,BATCH-0859,Cat Food Premium,Supplier C,Cork,Day,19.88,Pass,No Defect,0,89.0,18408.11
+2025-06-06,BATCH-0885,Dog Food Premium,Supplier I,Limerick,Night,24.62,Pass,No Defect,0,95.9,23079.64
+2025-06-06,BATCH-0491,Dog Food Premium,Supplier A,Galway,Night,12.79,Pass,No Defect,0,92.1,11587.61
+2025-06-07,BATCH-0175,Livestock Feed,Supplier F,Dublin,Day,15.28,Pass,No Defect,0,90.3,9553.65
+2025-06-08,BATCH-0160,Cat Food Standard,Supplier H,Galway,Day,13.89,Pass,No Defect,0,93.6,11264.51
+2025-06-08,BATCH-0987,Dog Food Standard,Supplier H,Dublin,Day,17.91,Pass,No Defect,0,96.2,11990.97
+2025-06-08,BATCH-0910,Cat Food Standard,Supplier E,Dublin,Day,18.0,Pass,No Defect,0,92.0,14647.81
+2025-06-08,BATCH-0202,Dog Food Premium,Supplier C,Cork,Day,18.41,Fail,Moisture,14,71.3,19485.02
+2025-06-08,BATCH-0153,Cat Food Standard,Supplier D,Galway,Night,17.31,Pass,No Defect,0,95.6,13815.94
+2025-06-09,BATCH-0210,Cat Food Standard,Supplier D,Dublin,Night,20.44,Pass,No Defect,0,90.9,17441.92
+2025-06-09,BATCH-0270,Cat Food Premium,Supplier B,Galway,Night,23.3,Pass,No Defect,0,92.8,28323.0
+2025-06-10,BATCH-0352,Dog Food Standard,Supplier A,Cork,Day,22.9,Pass,No Defect,0,95.3,17892.99
+2025-06-10,BATCH-0212,Dog Food Premium,Supplier D,Cork,Day,19.87,Pass,No Defect,0,91.5,19514.5
+2025-06-10,BATCH-0164,Dog Food Premium,Supplier A,Dublin,Day,20.79,Pass,No Defect,0,90.6,18889.86
+2025-06-10,BATCH-0023,Dog Food Premium,Supplier E,Dublin,Day,23.52,Pass,No Defect,0,88.2,23944.64
+2025-06-11,BATCH-0652,Cat Food Premium,Supplier J,Dublin,Night,12.93,Pass,No Defect,0,98.4,12267.55
+2025-06-11,BATCH-0917,Dog Food Standard,Supplier D,Cork,Day,23.01,Pass,No Defect,0,91.3,16843.95
+2025-06-11,BATCH-0850,Cat Food Standard,Supplier H,Limerick,Day,24.21,Pass,No Defect,0,90.1,19104.33
+2025-06-11,BATCH-0389,Livestock Feed,Supplier B,Limerick,Night,22.62,Pass,No Defect,0,87.6,13342.71
+2025-06-12,BATCH-0837,Cat Food Premium,Supplier C,Galway,Night,16.95,Pass,No Defect,0,91.6,18708.81
+2025-06-12,BATCH-0398,Dog Food Premium,Supplier E,Limerick,Night,17.87,Pass,No Defect,0,95.6,16961.66
+2025-06-12,BATCH-0825,Dog Food Standard,Supplier J,Cork,Day,17.27,Pass,No Defect,0,83.4,14500.88
+2025-06-12,BATCH-0836,Dog Food Standard,Supplier F,Cork,Night,10.58,Pass,No Defect,0,95.2,6916.74
+2025-06-13,BATCH-0785,Cat Food Premium,Supplier H,Dublin,Day,16.24,Pass,No Defect,0,85.5,16994.15
+2025-06-13,BATCH-0599,Dog Food Premium,Supplier A,Cork,Day,8.81,Pass,No Defect,0,95.3,9901.65
+2025-06-13,BATCH-0428,Cat Food Premium,Supplier F,Dublin,Day,21.26,Pass,No Defect,0,92.6,20871.77
+2025-06-13,BATCH-0385,Livestock Feed,Supplier D,Galway,Day,16.48,Pass,No Defect,0,97.6,9520.46
+2025-06-14,BATCH-0484,Cat Food Premium,Supplier A,Cork,Night,15.03,Pass,No Defect,0,92.8,16065.3
+2025-06-14,BATCH-0095,Dog Food Premium,Supplier G,Limerick,Day,11.74,Pass,No Defect,0,93.3,12156.08
+2025-06-15,BATCH-0397,Cat Food Premium,Supplier F,Cork,Day,20.18,Pass,No Defect,0,98.0,20323.87
+2025-06-15,BATCH-0591,Dog Food Premium,Supplier E,Dublin,Day,24.99,Pass,No Defect,0,95.0,26825.33
+2025-06-15,BATCH-0676,Dog Food Standard,Supplier I,Galway,Day,16.72,Pass,No Defect,0,100.0,12494.32
+2025-06-15,BATCH-0362,Cat Food Premium,Supplier H,Limerick,Night,20.22,Pass,No Defect,0,90.1,22493.83
+2025-06-17,BATCH-0312,Dog Food Premium,Supplier A,Dublin,Day,18.94,Pass,No Defect,0,94.3,18822.49
+2025-06-17,BATCH-0626,Dog Food Standard,Supplier C,Limerick,Night,20.05,Pass,No Defect,0,89.7,15667.44
+2025-06-17,BATCH-0304,Dog Food Standard,Supplier F,Dublin,Day,23.53,Pass,No Defect,0,88.6,16601.93
+2025-06-17,BATCH-0710,Dog Food Standard,Supplier I,Dublin,Night,16.71,Pass,No Defect,0,94.2,13784.53
+2025-06-19,BATCH-0775,Cat Food Premium,Supplier G,Dublin,Day,19.32,Pass,No Defect,0,88.3,21219.9
+2025-06-19,BATCH-0823,Cat Food Standard,Supplier F,Limerick,Day,18.61,Pass,No Defect,0,94.7,16904.55
+2025-06-19,BATCH-0672,Cat Food Standard,Supplier I,Dublin,Day,27.01,Pass,No Defect,0,92.0,22493.17
+2025-06-19,BATCH-0003,Dog Food Premium,Supplier C,Cork,Night,22.16,Pass,No Defect,0,93.7,21326.7
+2025-06-19,BATCH-0031,Cat Food Standard,Supplier F,Cork,Day,17.24,Pass,No Defect,0,96.8,13749.39
+2025-06-20,BATCH-0146,Livestock Feed,Supplier I,Dublin,Day,25.47,Fail,Composition,5,70.6,16063.05
+2025-06-21,BATCH-0953,Cat Food Standard,Supplier E,Cork,Day,7.48,Pass,No Defect,0,90.8,6195.57
+2025-06-21,BATCH-0606,Livestock Feed,Supplier C,Cork,Day,21.96,Pass,No Defect,0,93.4,12863.32
+2025-06-21,BATCH-0451,Livestock Feed,Supplier J,Galway,Day,20.88,Pass,No Defect,0,92.2,11261.78
+2025-06-22,BATCH-0952,Cat Food Standard,Supplier I,Galway,Day,25.3,Pass,No Defect,0,97.9,19358.68
+2025-06-22,BATCH-0203,Dog Food Premium,Supplier G,Galway,Day,22.41,Pass,No Defect,0,95.1,20779.83
+2025-06-23,BATCH-0289,Dog Food Premium,Supplier A,Limerick,Day,15.28,Pass,No Defect,0,91.6,15923.82
+2025-06-24,BATCH-0654,Dog Food Premium,Supplier E,Galway,Night,13.94,Pass,No Defect,0,87.9,13431.6
+2025-06-24,BATCH-0854,Dog Food Premium,Supplier E,Dublin,Day,15.44,Pass,No Defect,0,87.9,15653.61
+2025-06-25,BATCH-0108,Dog Food Premium,Supplier G,Galway,Night,10.97,Fail,Packaging,11,82.4,11080.38
+2025-06-25,BATCH-0353,Dog Food Standard,Supplier H,Dublin,Day,14.38,Pass,No Defect,0,99.6,11130.65
+2025-06-25,BATCH-0677,Dog Food Standard,Supplier I,Galway,Night,9.2,Pass,No Defect,0,95.7,7154.0
+2025-06-26,BATCH-0548,Cat Food Standard,Supplier I,Galway,Night,6.21,Pass,No Defect,0,92.2,4900.33
+2025-06-27,BATCH-0633,Cat Food Premium,Supplier B,Galway,Day,14.21,Pass,No Defect,0,96.4,14520.48
+2025-06-27,BATCH-0074,Dog Food Standard,Supplier E,Dublin,Night,14.99,Pass,No Defect,0,92.2,12076.17
+2025-06-27,BATCH-0116,Cat Food Premium,Supplier A,Dublin,Night,19.01,Pass,No Defect,0,87.3,18231.64
+2025-06-27,BATCH-0567,Dog Food Premium,Supplier G,Cork,Day,22.87,Pass,No Defect,0,96.6,21343.53
+2025-06-28,BATCH-0948,Cat Food Standard,Supplier J,Cork,Day,18.06,Pass,No Defect,0,95.2,14708.56
+2025-06-29,BATCH-0601,Cat Food Standard,Supplier B,Dublin,Day,11.81,Pass,No Defect,0,91.0,8870.77
+2025-06-30,BATCH-0370,Dog Food Standard,Supplier I,Dublin,Day,18.87,Pass,No Defect,0,89.0,13164.76
+2025-06-30,BATCH-0298,Dog Food Standard,Supplier D,Limerick,Night,20.44,Pass,No Defect,0,95.2,16340.79
+2025-06-30,BATCH-0542,Dog Food Standard,Supplier H,Galway,Night,13.68,Pass,No Defect,0,88.4,9064.7
+2025-06-30,BATCH-0045,Cat Food Premium,Supplier G,Limerick,Day,20.02,Pass,No Defect,0,99.3,21129.2
+2025-06-30,BATCH-0420,Cat Food Standard,Supplier D,Cork,Day,29.13,Pass,No Defect,0,94.8,23905.69
+2025-06-30,BATCH-0026,Cat Food Premium,Supplier A,Dublin,Day,17.44,Pass,No Defect,0,95.0,16481.77
+2025-06-30,BATCH-0522,Cat Food Premium,Supplier C,Dublin,Day,20.05,Fail,Moisture,11,79.9,21287.9
+2025-07-01,BATCH-0543,Dog Food Standard,Supplier F,Limerick,Day,19.22,Pass,No Defect,0,91.7,14267.88
+2025-07-01,BATCH-0641,Dog Food Premium,Supplier J,Cork,Day,9.3,Pass,No Defect,0,92.6,8853.17
+2025-07-01,BATCH-0344,Cat Food Standard,Supplier H,Dublin,Day,22.49,Pass,No Defect,0,89.2,20162.12
+2025-07-01,BATCH-0396,Livestock Feed,Supplier A,Dublin,Night,12.08,Pass,No Defect,0,92.9,7632.62
+2025-07-01,BATCH-0354,Cat Food Standard,Supplier F,Dublin,Night,21.78,Pass,No Defect,0,90.5,18659.97
+2025-07-02,BATCH-0241,Livestock Feed,Supplier C,Cork,Night,14.45,Pass,No Defect,0,97.9,9257.11
+2025-07-02,BATCH-0969,Dog Food Standard,Supplier B,Limerick,Day,27.26,Pass,No Defect,0,87.5,19518.41
+2025-07-02,BATCH-0183,Dog Food Standard,Supplier E,Dublin,Day,12.41,Pass,No Defect,0,92.4,8691.39
+2025-07-02,BATCH-0476,Dog Food Premium,Supplier B,Limerick,Day,13.93,Pass,No Defect,0,88.4,14808.42
+2025-07-03,BATCH-0082,Cat Food Premium,Supplier H,Dublin,Day,22.35,Pass,No Defect,0,83.2,25285.41
+2025-07-03,BATCH-0386,Dog Food Standard,Supplier A,Dublin,Night,11.06,Pass,No Defect,0,90.3,8261.41
+2025-07-04,BATCH-0631,Cat Food Standard,Supplier C,Galway,Night,20.01,Pass,No Defect,0,94.5,18879.76
+2025-07-05,BATCH-0666,Cat Food Standard,Supplier J,Galway,Night,17.33,Pass,No Defect,0,86.6,13412.77
+2025-07-05,BATCH-0282,Livestock Feed,Supplier F,Dublin,Night,16.23,Pass,No Defect,0,98.2,9504.03
+2025-07-05,BATCH-0535,Cat Food Premium,Supplier B,Dublin,Night,18.91,Pass,No Defect,0,89.0,20377.72
+2025-07-05,BATCH-0450,Dog Food Standard,Supplier J,Cork,Day,14.17,Pass,No Defect,0,86.6,10774.54
+2025-07-05,BATCH-0330,Dog Food Premium,Supplier D,Cork,Day,22.89,Pass,No Defect,0,92.0,21049.85
+2025-07-06,BATCH-0708,Cat Food Standard,Supplier J,Limerick,Day,11.92,Pass,No Defect,0,92.3,10749.49
+2025-07-06,BATCH-0769,Cat Food Premium,Supplier D,Limerick,Night,23.41,Pass,No Defect,0,89.4,24079.55
+2025-07-06,BATCH-0993,Dog Food Premium,Supplier H,Galway,Day,20.0,Pass,No Defect,0,99.2,20252.6
+2025-07-07,BATCH-0184,Cat Food Standard,Supplier E,Limerick,Day,15.78,Pass,No Defect,0,91.9,12101.87
+2025-07-07,BATCH-0562,Cat Food Standard,Supplier F,Galway,Day,20.95,Pass,No Defect,0,90.6,16255.48
+2025-07-07,BATCH-0267,Dog Food Premium,Supplier J,Cork,Day,14.85,Pass,No Defect,0,95.5,14414.96
+2025-07-07,BATCH-0109,Cat Food Premium,Supplier C,Galway,Day,15.8,Pass,No Defect,0,91.3,17961.74
+2025-07-08,BATCH-0239,Dog Food Premium,Supplier A,Dublin,Day,15.11,Pass,No Defect,0,96.3,15243.1
+2025-07-08,BATCH-0795,Dog Food Premium,Supplier B,Dublin,Day,5.16,Pass,No Defect,0,92.7,4857.88
+2025-07-08,BATCH-0822,Dog Food Standard,Supplier A,Dublin,Day,18.25,Pass,No Defect,0,93.4,14961.39
+2025-07-08,BATCH-0302,Cat Food Standard,Supplier H,Cork,Night,14.98,Pass,No Defect,0,93.6,12239.73
+2025-07-08,BATCH-0515,Cat Food Standard,Supplier A,Dublin,Day,16.39,Pass,No Defect,0,98.5,14743.23
+2025-07-09,BATCH-0042,Cat Food Premium,Supplier A,Galway,Night,21.16,Pass,No Defect,0,96.6,19356.12
+2025-07-09,BATCH-0879,Cat Food Standard,Supplier E,Dublin,Day,9.01,Pass,No Defect,0,88.4,5628.83
+2025-07-10,BATCH-0584,Dog Food Standard,Supplier B,Dublin,Day,17.42,Pass,No Defect,0,98.0,14430.32
+2025-07-10,BATCH-0265,Dog Food Premium,Supplier I,Galway,Day,21.92,Pass,No Defect,0,100.0,23750.47
+2025-07-10,BATCH-0374,Cat Food Premium,Supplier E,Dublin,Day,15.26,Pass,No Defect,0,95.8,16786.0
+2025-07-11,BATCH-0002,Livestock Feed,Supplier A,Dublin,Day,22.08,Pass,No Defect,0,94.2,11670.77
+2025-07-11,BATCH-0383,Dog Food Standard,Supplier H,Galway,Day,18.98,Pass,No Defect,0,94.0,15216.29
+2025-07-11,BATCH-0888,Dog Food Standard,Supplier C,Limerick,Night,14.39,Pass,No Defect,0,92.0,11409.25
+2025-07-12,BATCH-0299,Dog Food Premium,Supplier B,Galway,Day,26.51,Pass,No Defect,0,94.0,23077.84
+2025-07-12,BATCH-0553,Cat Food Standard,Supplier G,Galway,Night,12.46,Fail,Microbiological,10,73.2,9238.76
+2025-07-12,BATCH-0124,Dog Food Premium,Supplier H,Dublin,Night,19.84,Pass,No Defect,0,87.9,18817.28
+2025-07-13,BATCH-0751,Cat Food Standard,Supplier H,Cork,Day,17.43,Pass,No Defect,0,98.5,13686.53
+2025-07-13,BATCH-0707,Cat Food Premium,Supplier A,Dublin,Night,11.69,Pass,No Defect,0,86.1,11730.3
+2025-07-14,BATCH-0549,Cat Food Standard,Supplier F,Limerick,Night,19.9,Pass,No Defect,0,94.5,15664.13
+2025-07-15,BATCH-0847,Dog Food Standard,Supplier B,Dublin,Night,22.89,Pass,No Defect,0,84.2,16283.22
+2025-07-15,BATCH-0763,Dog Food Premium,Supplier C,Cork,Day,19.62,Pass,No Defect,0,95.6,19128.1
+2025-07-16,BATCH-0459,Dog Food Premium,Supplier F,Galway,Day,14.23,Pass,No Defect,0,90.7,13669.25
+2025-07-16,BATCH-0560,Dog Food Premium,Supplier D,Galway,Day,18.75,Pass,No Defect,0,90.7,20548.43
+2025-07-17,BATCH-0556,Livestock Feed,Supplier C,Cork,Night,26.45,Fail,Packaging,9,60.3,15787.4
+2025-07-17,BATCH-0309,Livestock Feed,Supplier G,Dublin,Night,15.7,Pass,No Defect,0,90.5,8846.57
+2025-07-17,BATCH-0204,Cat Food Premium,Supplier F,Limerick,Night,19.78,Pass,No Defect,0,89.8,20826.77
+2025-07-17,BATCH-0721,Dog Food Premium,Supplier A,Galway,Night,14.65,Pass,No Defect,0,92.2,14486.21
+2025-07-18,BATCH-0576,Dog Food Standard,Supplier F,Galway,Day,20.96,Pass,No Defect,0,92.2,16785.05
+2025-07-18,BATCH-0663,Cat Food Standard,Supplier F,Limerick,Night,15.94,Pass,No Defect,0,92.9,14059.53
+2025-07-18,BATCH-0916,Cat Food Premium,Supplier J,Dublin,Day,20.21,Pass,No Defect,0,85.0,19481.96
+2025-07-19,BATCH-0943,Cat Food Premium,Supplier G,Cork,Day,7.01,Pass,No Defect,0,94.0,7522.4
+2025-07-19,BATCH-0375,Cat Food Premium,Supplier I,Galway,Day,21.69,Pass,No Defect,0,90.8,23450.73
+2025-07-19,BATCH-0868,Cat Food Standard,Supplier H,Cork,Night,25.56,Fail,Labelling,5,64.3,19223.84
+2025-07-19,BATCH-0436,Livestock Feed,Supplier C,Cork,Day,18.98,Pass,No Defect,0,93.7,10738.05
+2025-07-19,BATCH-0565,Livestock Feed,Supplier C,Cork,Day,22.62,Pass,No Defect,0,90.1,13286.64
+2025-07-19,BATCH-0393,Cat Food Standard,Supplier E,Dublin,Day,13.82,Pass,No Defect,0,92.7,11599.79
+2025-07-19,BATCH-0849,Cat Food Premium,Supplier F,Cork,Night,20.29,Pass,No Defect,0,93.6,19568.35
+2025-07-20,BATCH-0490,Dog Food Standard,Supplier I,Dublin,Day,22.14,Pass,No Defect,0,91.4,16080.55
+2025-07-20,BATCH-0235,Livestock Feed,Supplier D,Limerick,Day,17.45,Pass,No Defect,0,87.5,9785.99
+2025-07-21,BATCH-0067,Cat Food Premium,Supplier A,Dublin,Day,22.55,Pass,No Defect,0,92.9,25105.36
+2025-07-22,BATCH-0260,Livestock Feed,Supplier C,Cork,Night,23.97,Pass,No Defect,0,97.5,14376.87
+2025-07-22,BATCH-0508,Dog Food Premium,Supplier E,Cork,Day,10.86,Pass,No Defect,0,91.4,10787.38
+2025-07-22,BATCH-0690,Livestock Feed,Supplier J,Dublin,Day,17.49,Pass,No Defect,0,96.8,11882.65
+2025-07-22,BATCH-0359,Livestock Feed,Supplier B,Cork,Night,21.26,Pass,No Defect,0,92.8,13382.04
+2025-07-23,BATCH-0701,Dog Food Premium,Supplier J,Galway,Day,18.43,Pass,No Defect,0,95.0,20530.87
+2025-07-23,BATCH-0776,Cat Food Premium,Supplier I,Cork,Day,22.07,Pass,No Defect,0,90.4,24792.13
+2025-07-24,BATCH-0271,Livestock Feed,Supplier H,Dublin,Day,13.26,Pass,No Defect,0,93.3,7723.0
+2025-07-24,BATCH-0694,Cat Food Standard,Supplier G,Cork,Day,19.05,Fail,Microbiological,4,66.0,15690.02
+2025-07-24,BATCH-0209,Dog Food Standard,Supplier I,Cork,Day,22.42,Pass,No Defect,0,82.3,18030.4
+2025-07-25,BATCH-0551,Dog Food Premium,Supplier D,Galway,Night,15.79,Pass,No Defect,0,96.6,15457.18
+2025-07-26,BATCH-0059,Cat Food Standard,Supplier B,Limerick,Night,19.2,Pass,No Defect,0,92.2,16692.5
+2025-07-26,BATCH-0768,Dog Food Premium,Supplier H,Dublin,Day,18.95,Pass,No Defect,0,90.6,19291.5
+2025-07-27,BATCH-0817,Dog Food Standard,Supplier D,Galway,Day,19.6,Fail,Packaging,8,86.4,16332.24
+2025-07-27,BATCH-0766,Dog Food Premium,Supplier G,Dublin,Day,29.76,Pass,No Defect,0,94.5,28179.07
+2025-07-28,BATCH-0968,Dog Food Standard,Supplier E,Galway,Day,24.67,Pass,No Defect,0,92.7,19328.08
+2025-07-28,BATCH-0098,Cat Food Premium,Supplier A,Dublin,Day,14.89,Pass,No Defect,0,92.6,15260.93
+2025-07-29,BATCH-0245,Dog Food Premium,Supplier I,Galway,Night,14.28,Pass,No Defect,0,92.2,12540.33
+2025-07-29,BATCH-0110,Cat Food Premium,Supplier J,Limerick,Day,15.81,Pass,No Defect,0,92.8,15475.14
+2025-07-29,BATCH-0479,Dog Food Standard,Supplier D,Cork,Day,20.04,Pass,No Defect,0,93.3,15755.54
+2025-07-29,BATCH-0814,Cat Food Premium,Supplier J,Limerick,Day,19.33,Pass,No Defect,0,92.6,20129.09
+2025-07-29,BATCH-0443,Dog Food Premium,Supplier J,Cork,Day,12.88,Pass,No Defect,0,85.3,12406.16
+2025-07-29,BATCH-0622,Dog Food Premium,Supplier I,Dublin,Day,25.36,Pass,No Defect,0,98.3,23788.45
+2025-07-30,BATCH-0570,Dog Food Standard,Supplier J,Dublin,Day,10.83,Pass,No Defect,0,95.7,6862.9
+2025-07-30,BATCH-0711,Cat Food Standard,Supplier G,Cork,Day,20.44,Pass,No Defect,0,93.2,16856.62
+2025-07-31,BATCH-0511,Livestock Feed,Supplier B,Dublin,Night,17.12,Pass,No Defect,0,92.0,12331.45
+2025-07-31,BATCH-0325,Dog Food Premium,Supplier G,Dublin,Night,13.65,Pass,No Defect,0,89.2,14773.41
+2025-07-31,BATCH-0526,Dog Food Standard,Supplier D,Dublin,Day,9.55,Pass,No Defect,0,89.4,6987.97
+2025-08-01,BATCH-0531,Dog Food Standard,Supplier A,Cork,Day,11.55,Pass,No Defect,0,97.2,9617.69
+2025-08-01,BATCH-0705,Cat Food Standard,Supplier G,Dublin,Day,15.67,Pass,No Defect,0,97.2,13677.2
+2025-08-01,BATCH-0140,Cat Food Standard,Supplier H,Cork,Day,19.12,Pass,No Defect,0,93.4,16879.63
+2025-08-02,BATCH-0361,Cat Food Premium,Supplier A,Limerick,Day,11.66,Fail,Composition,7,72.6,13576.4
+2025-08-02,BATCH-0407,Cat Food Standard,Supplier C,Limerick,Day,16.32,Pass,No Defect,0,92.3,14638.09
+2025-08-02,BATCH-0770,Cat Food Standard,Supplier F,Dublin,Day,22.7,Pass,No Defect,0,97.0,18438.22
+2025-08-02,BATCH-0809,Cat Food Standard,Supplier I,Cork,Night,16.62,Pass,No Defect,0,100.0,13311.53
+2025-08-02,BATCH-0712,Dog Food Standard,Supplier A,Limerick,Day,13.08,Fail,Microbiological,10,70.1,9586.64
+2025-08-02,BATCH-0086,Livestock Feed,Supplier A,Dublin,Night,18.28,Pass,No Defect,0,92.4,12533.71
+2025-08-03,BATCH-0480,Livestock Feed,Supplier I,Dublin,Day,13.99,Pass,No Defect,0,91.0,7784.08
+2025-08-03,BATCH-0547,Dog Food Premium,Supplier H,Dublin,Night,23.44,Pass,No Defect,0,88.7,24601.55
+2025-08-03,BATCH-0722,Cat Food Standard,Supplier B,Limerick,Night,15.38,Pass,No Defect,0,94.6,13108.82
+2025-08-04,BATCH-0936,Dog Food Standard,Supplier C,Cork,Night,31.33,Pass,No Defect,0,82.8,23993.43
+2025-08-04,BATCH-0278,Livestock Feed,Supplier D,Galway,Day,25.74,Pass,No Defect,0,95.3,14782.88
+2025-08-04,BATCH-0835,Livestock Feed,Supplier F,Galway,Day,14.57,Pass,No Defect,0,100.0,8552.61
+2025-08-05,BATCH-0588,Livestock Feed,Supplier H,Cork,Day,21.6,Pass,No Defect,0,92.9,11642.42
+2025-08-06,BATCH-0755,Cat Food Premium,Supplier F,Dublin,Day,9.1,Pass,No Defect,0,90.7,9041.78
+2025-08-06,BATCH-0973,Cat Food Premium,Supplier H,Dublin,Day,15.94,Pass,No Defect,0,90.4,16289.51
+2025-08-06,BATCH-0797,Cat Food Premium,Supplier D,Cork,Night,13.3,Pass,No Defect,0,96.7,14224.2
+2025-08-07,BATCH-0979,Cat Food Standard,Supplier J,Dublin,Night,12.79,Pass,No Defect,0,93.5,9848.18
+2025-08-07,BATCH-0318,Cat Food Premium,Supplier G,Dublin,Day,13.39,Pass,No Defect,0,89.5,13252.92
+2025-08-07,BATCH-0637,Livestock Feed,Supplier H,Cork,Day,15.4,Pass,No Defect,0,88.5,7799.88
+2025-08-08,BATCH-0152,Dog Food Premium,Supplier F,Dublin,Night,16.33,Pass,No Defect,0,99.3,16205.43
+2025-08-08,BATCH-0395,Livestock Feed,Supplier I,Dublin,Night,15.66,Pass,No Defect,0,92.1,8697.72
+2025-08-08,BATCH-0208,Dog Food Standard,Supplier G,Limerick,Day,16.48,Pass,No Defect,0,91.2,14075.34
+2025-08-09,BATCH-0660,Livestock Feed,Supplier B,Limerick,Day,26.74,Pass,No Defect,0,89.6,18247.48
+2025-08-09,BATCH-0886,Dog Food Standard,Supplier I,Galway,Day,15.48,Pass,No Defect,0,91.7,11200.25
+2025-08-11,BATCH-0071,Livestock Feed,Supplier D,Limerick,Night,15.34,Pass,No Defect,0,89.1,9997.06
+2025-08-11,BATCH-0764,Dog Food Standard,Supplier D,Galway,Day,18.34,Pass,No Defect,0,84.5,12016.59
+2025-08-11,BATCH-0149,Dog Food Standard,Supplier B,Dublin,Day,18.6,Pass,No Defect,0,92.3,13695.83
+2025-08-11,BATCH-0830,Dog Food Premium,Supplier F,Cork,Day,5.68,Pass,No Defect,0,91.0,5293.22
+2025-08-12,BATCH-0283,Dog Food Standard,Supplier A,Galway,Day,27.19,Pass,No Defect,0,99.1,21628.59
+2025-08-12,BATCH-0122,Dog Food Premium,Supplier A,Cork,Day,16.05,Pass,No Defect,0,95.4,15083.37
+2025-08-12,BATCH-0290,Cat Food Premium,Supplier E,Limerick,Day,19.41,Pass,No Defect,0,88.9,22206.99
+2025-08-12,BATCH-0417,Cat Food Standard,Supplier E,Limerick,Day,21.72,Pass,No Defect,0,89.5,16162.97
+2025-08-13,BATCH-0073,Cat Food Standard,Supplier A,Galway,Day,11.94,Pass,No Defect,0,91.7,9323.82
+2025-08-13,BATCH-0794,Livestock Feed,Supplier H,Limerick,Day,16.83,Pass,No Defect,0,91.6,9532.33
+2025-08-13,BATCH-0142,Dog Food Premium,Supplier H,Cork,Day,19.15,Pass,No Defect,0,97.5,16095.94
+2025-08-14,BATCH-0097,Livestock Feed,Supplier C,Limerick,Night,23.52,Pass,No Defect,0,91.8,14743.6
+2025-08-14,BATCH-0581,Livestock Feed,Supplier J,Cork,Day,19.21,Pass,No Defect,0,91.1,10327.04
+2025-08-15,BATCH-0887,Dog Food Premium,Supplier C,Cork,Day,21.26,Pass,No Defect,0,90.2,21405.31
+2025-08-15,BATCH-0871,Cat Food Premium,Supplier F,Cork,Day,19.53,Pass,No Defect,0,84.0,20339.21
+2025-08-16,BATCH-0639,Dog Food Standard,Supplier I,Cork,Day,15.1,Pass,No Defect,0,92.9,11416.66
+2025-08-16,BATCH-0284,Livestock Feed,Supplier I,Cork,Night,13.33,Pass,No Defect,0,100.0,7731.74
+2025-08-16,BATCH-0893,Dog Food Premium,Supplier D,Cork,Day,26.99,Pass,No Defect,0,88.1,27345.57
+2025-08-17,BATCH-0808,Livestock Feed,Supplier I,Dublin,Day,13.73,Pass,No Defect,0,92.6,9571.01
+2025-08-17,BATCH-0811,Dog Food Premium,Supplier A,Cork,Day,18.77,Pass,No Defect,0,89.1,19057.52
+2025-08-17,BATCH-0852,Cat Food Standard,Supplier C,Cork,Night,19.7,Pass,No Defect,0,90.2,15398.05
+2025-08-18,BATCH-0046,Dog Food Premium,Supplier H,Dublin,Night,23.77,Pass,No Defect,0,92.3,22613.76
+2025-08-18,BATCH-0585,Livestock Feed,Supplier J,Dublin,Day,16.75,Pass,No Defect,0,94.6,10961.34
+2025-08-19,BATCH-0172,Livestock Feed,Supplier E,Limerick,Night,14.07,Pass,No Defect,0,90.4,7599.57
+2025-08-19,BATCH-0828,Dog Food Premium,Supplier B,Cork,Day,18.72,Pass,No Defect,0,94.4,19324.5
+2025-08-20,BATCH-0236,Livestock Feed,Supplier F,Cork,Night,13.17,Pass,No Defect,0,90.1,8189.23
+2025-08-21,BATCH-0015,Dog Food Standard,Supplier A,Dublin,Day,20.29,Pass,No Defect,0,89.0,15342.03
+2025-08-21,BATCH-0461,Cat Food Premium,Supplier G,Galway,Day,22.13,Pass,No Defect,0,89.6,22212.14
+2025-08-21,BATCH-0021,Dog Food Standard,Supplier C,Limerick,Day,23.51,Pass,No Defect,0,94.6,15258.27
+2025-08-23,BATCH-0099,Dog Food Standard,Supplier J,Cork,Day,13.11,Pass,No Defect,0,92.8,10284.73
+2025-08-23,BATCH-0669,Cat Food Standard,Supplier D,Dublin,Day,21.67,Pass,No Defect,0,98.4,17780.82
+2025-08-23,BATCH-0839,Cat Food Standard,Supplier F,Galway,Night,15.77,Pass,No Defect,0,94.6,13282.82
+2025-08-24,BATCH-0980,Dog Food Standard,Supplier F,Galway,Night,17.89,Pass,No Defect,0,90.6,14522.61
+2025-08-25,BATCH-0557,Cat Food Premium,Supplier G,Dublin,Day,16.81,Pass,No Defect,0,99.3,16176.98
+2025-08-25,BATCH-0539,Dog Food Premium,Supplier G,Dublin,Day,25.36,Pass,No Defect,0,90.4,24299.39
+2025-08-25,BATCH-0349,Dog Food Premium,Supplier J,Cork,Day,7.63,Fail,Composition,12,59.5,7440.01
+2025-08-25,BATCH-0483,Dog Food Premium,Supplier A,Cork,Night,16.33,Pass,No Defect,0,93.4,14685.91
+2025-08-26,BATCH-0695,Livestock Feed,Supplier D,Cork,Night,19.27,Pass,No Defect,0,94.6,11953.47
+2025-08-26,BATCH-0138,Dog Food Standard,Supplier H,Limerick,Day,13.33,Fail,Microbiological,6,82.4,10733.31
+2025-08-27,BATCH-0870,Dog Food Standard,Supplier J,Limerick,Night,14.14,Pass,No Defect,0,89.3,9708.8
+2025-08-27,BATCH-0754,Dog Food Premium,Supplier J,Galway,Day,25.51,Pass,No Defect,0,96.1,24934.05
+2025-08-27,BATCH-0261,Cat Food Premium,Supplier C,Dublin,Day,16.98,Pass,No Defect,0,96.7,17691.2
+2025-08-27,BATCH-0400,Cat Food Standard,Supplier A,Galway,Day,14.82,Pass,No Defect,0,88.4,10500.52
+2025-08-27,BATCH-0305,Dog Food Standard,Supplier G,Galway,Night,13.38,Pass,No Defect,0,88.6,9880.91
+2025-08-27,BATCH-0941,Dog Food Standard,Supplier A,Limerick,Night,21.36,Pass,No Defect,0,83.7,13756.91
+2025-08-28,BATCH-0538,Dog Food Premium,Supplier F,Cork,Day,17.54,Pass,No Defect,0,96.2,16930.44
+2025-08-28,BATCH-0675,Dog Food Standard,Supplier J,Cork,Day,18.46,Pass,No Defect,0,94.0,14359.45
+2025-08-28,BATCH-0659,Dog Food Premium,Supplier F,Dublin,Night,18.0,Pass,No Defect,0,93.6,17326.15
+2025-08-29,BATCH-0011,Dog Food Standard,Supplier D,Limerick,Day,21.72,Pass,No Defect,0,88.8,16230.71
+2025-08-29,BATCH-0617,Cat Food Premium,Supplier A,Limerick,Night,17.83,Fail,Packaging,9,62.9,16991.94
+2025-08-29,BATCH-0166,Dog Food Premium,Supplier H,Dublin,Day,9.88,Pass,No Defect,0,89.8,10016.35
+2025-08-30,BATCH-0908,Dog Food Premium,Supplier E,Dublin,Day,14.67,Fail,Moisture,3,67.0,14097.7
+2025-08-30,BATCH-0301,Dog Food Premium,Supplier H,Dublin,Day,18.99,Pass,No Defect,0,81.6,19107.82
+2025-08-30,BATCH-0798,Dog Food Standard,Supplier C,Galway,Day,9.81,Pass,No Defect,0,92.4,7148.86
+2025-08-30,BATCH-0331,Dog Food Standard,Supplier F,Dublin,Day,22.79,Fail,Moisture,5,80.8,17034.71
+2025-08-30,BATCH-0681,Livestock Feed,Supplier A,Dublin,Day,16.75,Pass,No Defect,0,92.5,11126.4
+2025-08-31,BATCH-0115,Cat Food Premium,Supplier J,Dublin,Day,17.16,Fail,Labelling,8,70.0,17633.55
+2025-08-31,BATCH-0918,Cat Food Premium,Supplier J,Dublin,Day,18.34,Pass,No Defect,0,91.6,17578.71
+2025-08-31,BATCH-0199,Livestock Feed,Supplier F,Limerick,Night,16.0,Pass,No Defect,0,98.9,10135.7
+2025-08-31,BATCH-0624,Dog Food Standard,Supplier G,Limerick,Night,19.56,Pass,No Defect,0,89.6,13826.19
+2025-08-31,BATCH-0244,Dog Food Standard,Supplier G,Cork,Day,19.16,Pass,No Defect,0,92.3,15611.87
+2025-08-31,BATCH-0083,Cat Food Premium,Supplier J,Dublin,Day,22.18,Pass,No Defect,0,92.7,22103.47
+2025-09-01,BATCH-0736,Dog Food Premium,Supplier D,Cork,Day,18.41,Pass,No Defect,0,91.2,18082.43
+2025-09-01,BATCH-0759,Dog Food Standard,Supplier D,Galway,Day,23.06,Pass,No Defect,0,96.3,15198.76
+2025-09-01,BATCH-0645,Dog Food Standard,Supplier B,Dublin,Night,17.89,Pass,No Defect,0,93.5,13014.95
+2025-09-02,BATCH-0421,Dog Food Standard,Supplier H,Limerick,Day,14.38,Pass,No Defect,0,94.7,11434.69
+2025-09-02,BATCH-0148,Dog Food Premium,Supplier A,Cork,Day,22.58,Pass,No Defect,0,87.9,22597.82
+2025-09-02,BATCH-0937,Dog Food Premium,Supplier D,Dublin,Day,18.62,Fail,Microbiological,4,75.8,17405.18
+2025-09-03,BATCH-0546,Dog Food Premium,Supplier A,Dublin,Night,21.18,Pass,No Defect,0,96.2,18693.21
+2025-09-03,BATCH-0958,Cat Food Premium,Supplier D,Cork,Day,22.69,Pass,No Defect,0,88.2,25753.73
+2025-09-03,BATCH-0258,Dog Food Premium,Supplier G,Dublin,Night,17.38,Pass,No Defect,0,83.6,15809.62
+2025-09-03,BATCH-0914,Cat Food Standard,Supplier F,Limerick,Day,19.2,Pass,No Defect,0,85.6,17285.51
+2025-09-03,BATCH-0449,Dog Food Premium,Supplier G,Dublin,Day,18.34,Pass,No Defect,0,90.8,17777.97
+2025-09-04,BATCH-0017,Cat Food Standard,Supplier H,Dublin,Night,24.96,Pass,No Defect,0,97.6,19148.35
+2025-09-04,BATCH-0223,Dog Food Premium,Supplier E,Cork,Day,20.98,Pass,No Defect,0,88.8,20901.5
+2025-09-05,BATCH-0227,Dog Food Premium,Supplier G,Dublin,Day,16.11,Pass,No Defect,0,95.5,15212.57
+2025-09-06,BATCH-0458,Dog Food Premium,Supplier C,Limerick,Day,17.87,Pass,No Defect,0,92.2,16418.63
+2025-09-06,BATCH-0372,Livestock Feed,Supplier B,Dublin,Night,22.63,Pass,No Defect,0,97.2,14073.75
+2025-09-06,BATCH-0257,Cat Food Standard,Supplier C,Dublin,Day,25.81,Fail,Packaging,4,87.3,20243.39
+2025-09-06,BATCH-0094,Cat Food Standard,Supplier C,Limerick,Day,24.25,Pass,No Defect,0,92.6,20496.57
+2025-09-06,BATCH-0041,Cat Food Premium,Supplier E,Galway,Night,11.9,Pass,No Defect,0,84.8,12017.19
+2025-09-06,BATCH-0997,Cat Food Standard,Supplier F,Cork,Day,15.16,Fail,Composition,11,71.7,12548.07
+2025-09-07,BATCH-0946,Cat Food Premium,Supplier F,Limerick,Day,20.5,Fail,Packaging,7,74.1,20316.74
+2025-09-07,BATCH-0391,Dog Food Premium,Supplier I,Dublin,Day,21.58,Pass,No Defect,0,90.9,22251.8
+2025-09-07,BATCH-0141,Cat Food Standard,Supplier D,Limerick,Night,10.12,Pass,No Defect,0,94.6,9194.96
+2025-09-07,BATCH-0656,Livestock Feed,Supplier H,Limerick,Night,18.49,Pass,No Defect,0,92.1,10466.44
+2025-09-07,BATCH-0950,Livestock Feed,Supplier I,Galway,Day,14.44,Pass,No Defect,0,96.4,9054.28
+2025-09-08,BATCH-0743,Livestock Feed,Supplier I,Limerick,Day,13.75,Pass,No Defect,0,95.0,9189.88
+2025-09-08,BATCH-0340,Cat Food Premium,Supplier E,Dublin,Night,22.58,Pass,No Defect,0,93.3,25163.21
+2025-09-09,BATCH-0878,Livestock Feed,Supplier C,Limerick,Night,17.91,Pass,No Defect,0,88.4,10672.15
+2025-09-09,BATCH-0185,Cat Food Standard,Supplier C,Cork,Day,19.04,Pass,No Defect,0,93.1,16917.79
+2025-09-09,BATCH-0229,Cat Food Standard,Supplier B,Galway,Night,6.62,Fail,Microbiological,2,60.4,5484.34
+2025-09-10,BATCH-0414,Dog Food Standard,Supplier D,Limerick,Night,10.79,Fail,Packaging,13,77.8,8755.44
+2025-09-10,BATCH-0702,Dog Food Premium,Supplier B,Galway,Night,16.5,Pass,No Defect,0,88.5,16675.17
+2025-09-10,BATCH-0731,Dog Food Premium,Supplier H,Galway,Day,24.07,Fail,Moisture,1,70.0,21804.47
+2025-09-10,BATCH-0913,Livestock Feed,Supplier I,Limerick,Day,23.58,Pass,No Defect,0,89.7,13965.69
+2025-09-10,BATCH-0445,Dog Food Standard,Supplier D,Cork,Day,22.02,Pass,No Defect,0,91.2,15716.9
+2025-09-11,BATCH-0827,Dog Food Standard,Supplier H,Cork,Day,9.74,Pass,No Defect,0,92.2,7132.62
+2025-09-11,BATCH-0036,Dog Food Standard,Supplier G,Dublin,Night,18.01,Pass,No Defect,0,96.4,14504.46
+2025-09-11,BATCH-0927,Dog Food Standard,Supplier C,Dublin,Day,17.83,Pass,No Defect,0,95.1,14632.48
+2025-09-12,BATCH-0613,Dog Food Premium,Supplier H,Limerick,Night,24.21,Pass,No Defect,0,95.8,24204.15
+2025-09-12,BATCH-0545,Dog Food Standard,Supplier J,Limerick,Day,12.18,Pass,No Defect,0,97.8,9419.83
+2025-09-12,BATCH-0010,Dog Food Standard,Supplier I,Galway,Day,18.75,Pass,No Defect,0,94.9,14122.4
+2025-09-13,BATCH-0474,Livestock Feed,Supplier E,Dublin,Night,12.34,Fail,Moisture,13,82.7,8212.9
+2025-09-15,BATCH-0970,Cat Food Premium,Supplier A,Dublin,Day,11.05,Pass,No Defect,0,92.1,12287.28
+2025-09-15,BATCH-0191,Cat Food Premium,Supplier E,Limerick,Day,13.46,Pass,No Defect,0,92.9,13940.36
+2025-09-15,BATCH-0800,Cat Food Standard,Supplier D,Limerick,Day,18.71,Fail,Composition,6,62.0,16022.52
+2025-09-16,BATCH-0844,Livestock Feed,Supplier G,Dublin,Night,22.6,Pass,No Defect,0,90.6,15393.66
+2025-09-16,BATCH-0598,Dog Food Standard,Supplier A,Limerick,Day,17.75,Pass,No Defect,0,93.7,14010.87
+2025-09-16,BATCH-0858,Dog Food Premium,Supplier A,Dublin,Night,20.48,Pass,No Defect,0,93.7,19917.9
+2025-09-16,BATCH-0205,Dog Food Premium,Supplier A,Cork,Day,11.5,Pass,No Defect,0,89.7,10303.86
+2025-09-17,BATCH-0796,Dog Food Standard,Supplier J,Cork,Day,20.82,Pass,No Defect,0,94.7,15813.8
+2025-09-17,BATCH-0057,Dog Food Standard,Supplier A,Galway,Day,15.87,Pass,No Defect,0,92.0,13275.7
+2025-09-17,BATCH-0181,Cat Food Premium,Supplier H,Limerick,Day,29.44,Pass,No Defect,0,94.0,29067.93
+2025-09-17,BATCH-0920,Cat Food Standard,Supplier G,Dublin,Day,11.76,Pass,No Defect,0,88.4,10233.45
+2025-09-18,BATCH-0008,Livestock Feed,Supplier J,Dublin,Night,15.6,Pass,No Defect,0,95.0,9498.22
+2025-09-18,BATCH-0630,Livestock Feed,Supplier I,Dublin,Day,10.15,Pass,No Defect,0,97.3,6640.55
+2025-09-19,BATCH-0900,Dog Food Premium,Supplier E,Cork,Night,17.37,Pass,No Defect,0,96.3,18069.22
+2025-09-20,BATCH-0438,Cat Food Standard,Supplier D,Dublin,Night,21.53,Pass,No Defect,0,92.5,17341.1
+2025-09-20,BATCH-0220,Cat Food Premium,Supplier C,Limerick,Day,15.87,Pass,No Defect,0,84.7,16748.88
+2025-09-21,BATCH-0365,Livestock Feed,Supplier E,Dublin,Day,14.27,Pass,No Defect,0,91.2,8696.05
+2025-09-21,BATCH-0150,Dog Food Premium,Supplier F,Limerick,Day,17.85,Pass,No Defect,0,90.3,19638.65
+2025-09-21,BATCH-0005,Dog Food Premium,Supplier A,Dublin,Day,23.97,Pass,No Defect,0,100.0,23805.05
+2025-09-22,BATCH-0156,Dog Food Standard,Supplier J,Limerick,Night,18.45,Pass,No Defect,0,87.8,12714.2
+2025-09-23,BATCH-0176,Cat Food Standard,Supplier I,Cork,Day,15.42,Pass,No Defect,0,94.2,13506.48
+2025-09-23,BATCH-0112,Dog Food Premium,Supplier G,Cork,Night,12.97,Fail,Packaging,8,78.5,11892.78
+2025-09-24,BATCH-0437,Cat Food Premium,Supplier F,Cork,Day,23.45,Pass,No Defect,0,98.8,23069.68
+2025-09-24,BATCH-0597,Cat Food Standard,Supplier J,Dublin,Day,11.24,Pass,No Defect,0,88.2,8148.83
+2025-09-25,BATCH-0234,Cat Food Premium,Supplier B,Cork,Day,17.68,Pass,No Defect,0,95.2,16949.96
+2025-09-25,BATCH-0524,Dog Food Premium,Supplier J,Dublin,Day,18.38,Pass,No Defect,0,84.4,18149.23
+2025-09-25,BATCH-0812,Cat Food Standard,Supplier I,Galway,Day,18.01,Pass,No Defect,0,94.9,16424.62
+2025-09-26,BATCH-0616,Dog Food Premium,Supplier G,Dublin,Night,17.96,Fail,Labelling,13,85.8,17792.8
+2025-09-26,BATCH-0824,Cat Food Standard,Supplier F,Galway,Day,23.45,Pass,No Defect,0,92.6,18425.34
+2025-09-27,BATCH-0789,Cat Food Standard,Supplier A,Dublin,Night,11.66,Pass,No Defect,0,95.1,9628.62
+2025-09-27,BATCH-0767,Cat Food Standard,Supplier B,Limerick,Night,19.34,Pass,No Defect,0,84.8,16008.06
+2025-09-27,BATCH-0730,Cat Food Premium,Supplier F,Dublin,Day,9.33,Pass,No Defect,0,91.7,11346.41
+2025-09-28,BATCH-0703,Dog Food Standard,Supplier J,Dublin,Night,11.19,Pass,No Defect,0,90.9,7506.06
+2025-09-28,BATCH-0342,Cat Food Premium,Supplier E,Cork,Day,22.24,Fail,Moisture,2,74.4,20353.75
+2025-09-28,BATCH-0832,Cat Food Standard,Supplier C,Cork,Day,15.45,Pass,No Defect,0,88.6,12319.41
+2025-09-28,BATCH-0718,Dog Food Standard,Supplier D,Limerick,Night,18.84,Pass,No Defect,0,83.5,15632.22
+2025-09-29,BATCH-0884,Dog Food Premium,Supplier I,Cork,Night,21.88,Pass,No Defect,0,88.4,21047.79
+2025-09-29,BATCH-0807,Cat Food Standard,Supplier F,Limerick,Day,17.83,Pass,No Defect,0,89.7,14114.4
+2025-09-30,BATCH-0130,Cat Food Premium,Supplier D,Cork,Day,18.64,Pass,No Defect,0,91.8,18810.31
+2025-09-30,BATCH-0489,Dog Food Standard,Supplier G,Galway,Day,17.39,Pass,No Defect,0,95.2,12738.68
+2025-10-01,BATCH-0646,Dog Food Premium,Supplier B,Dublin,Day,20.6,Pass,No Defect,0,93.4,18979.84
+2025-10-02,BATCH-0691,Cat Food Premium,Supplier F,Limerick,Night,17.95,Pass,No Defect,0,88.5,18995.43
+2025-10-02,BATCH-0033,Dog Food Standard,Supplier G,Dublin,Day,14.61,Pass,No Defect,0,99.1,9745.9
+2025-10-02,BATCH-0231,Cat Food Standard,Supplier D,Limerick,Day,29.17,Pass,No Defect,0,94.3,22560.4
+2025-10-03,BATCH-0435,Cat Food Standard,Supplier D,Cork,Night,12.93,Fail,Composition,13,90.7,10322.18
+2025-10-04,BATCH-0757,Cat Food Standard,Supplier D,Dublin,Day,22.95,Pass,No Defect,0,92.1,18510.59
+2025-10-05,BATCH-0368,Cat Food Premium,Supplier G,Galway,Day,25.56,Pass,No Defect,0,90.5,26660.27
+2025-10-06,BATCH-0171,Dog Food Standard,Supplier H,Dublin,Night,12.22,Pass,No Defect,0,95.1,9113.74
+2025-10-06,BATCH-0226,Cat Food Premium,Supplier F,Galway,Night,15.55,Pass,No Defect,0,90.7,16604.89
+2025-10-07,BATCH-0651,Dog Food Premium,Supplier H,Limerick,Night,15.63,Pass,No Defect,0,94.5,14593.63
+2025-10-07,BATCH-0653,Cat Food Standard,Supplier F,Dublin,Day,21.02,Pass,No Defect,0,94.7,16742.17
+2025-10-07,BATCH-0007,Dog Food Standard,Supplier I,Dublin,Day,22.44,Fail,Packaging,1,78.7,18258.53
+2025-10-07,BATCH-0256,Livestock Feed,Supplier B,Cork,Day,19.46,Pass,No Defect,0,92.7,13115.42
+2025-10-07,BATCH-0403,Livestock Feed,Supplier I,Dublin,Night,25.15,Fail,Packaging,7,85.0,17802.86
+2025-10-08,BATCH-0128,Cat Food Standard,Supplier B,Limerick,Day,19.35,Pass,No Defect,0,94.6,15599.9
+2025-10-09,BATCH-0518,Cat Food Premium,Supplier D,Dublin,Day,12.65,Pass,No Defect,0,85.6,12080.51
+2025-10-09,BATCH-0911,Livestock Feed,Supplier J,Limerick,Day,13.84,Pass,No Defect,0,91.9,8257.36
+2025-10-10,BATCH-0413,Cat Food Premium,Supplier H,Limerick,Day,14.99,Pass,No Defect,0,91.6,16128.28
+2025-10-10,BATCH-0195,Livestock Feed,Supplier C,Dublin,Day,22.26,Pass,No Defect,0,95.2,12654.13
+2025-10-11,BATCH-0541,Cat Food Standard,Supplier E,Limerick,Day,17.74,Pass,No Defect,0,97.5,14377.59
+2025-10-11,BATCH-0217,Cat Food Standard,Supplier B,Dublin,Day,33.97,Pass,No Defect,0,91.3,28464.32
+2025-10-11,BATCH-0481,Cat Food Standard,Supplier F,Dublin,Day,20.95,Fail,Composition,7,79.9,17000.32
+2025-10-11,BATCH-0507,Dog Food Premium,Supplier B,Cork,Day,16.1,Pass,No Defect,0,86.7,15081.11
+2025-10-12,BATCH-0335,Dog Food Standard,Supplier G,Dublin,Night,26.72,Pass,No Defect,0,92.4,19856.67
+2025-10-12,BATCH-0039,Dog Food Premium,Supplier B,Dublin,Day,25.85,Pass,No Defect,0,87.4,23588.2
+2025-10-12,BATCH-0846,Dog Food Premium,Supplier F,Limerick,Day,18.56,Pass,No Defect,0,91.1,18640.01
+2025-10-13,BATCH-0013,Livestock Feed,Supplier J,Dublin,Day,11.44,Pass,No Defect,0,95.4,6495.42
+2025-10-13,BATCH-0091,Cat Food Standard,Supplier C,Dublin,Night,23.46,Pass,No Defect,0,81.4,20991.19
+2025-10-13,BATCH-0611,Dog Food Premium,Supplier F,Cork,Day,16.42,Fail,Packaging,8,85.0,17004.37
+2025-10-14,BATCH-0716,Livestock Feed,Supplier J,Limerick,Day,14.28,Pass,No Defect,0,90.8,8570.53
+2025-10-14,BATCH-0307,Cat Food Standard,Supplier B,Galway,Day,21.96,Pass,No Defect,0,85.6,19285.79
+2025-10-15,BATCH-0381,Dog Food Premium,Supplier A,Galway,Night,20.43,Pass,No Defect,0,92.9,18484.61
+2025-10-15,BATCH-0756,Dog Food Premium,Supplier I,Dublin,Night,21.36,Pass,No Defect,0,93.9,22443.55
+2025-10-16,BATCH-0608,Dog Food Standard,Supplier B,Dublin,Night,16.73,Pass,No Defect,0,91.3,12049.37
+2025-10-16,BATCH-0081,Dog Food Premium,Supplier F,Galway,Day,13.26,Pass,No Defect,0,92.3,12374.69
+2025-10-16,BATCH-0635,Cat Food Standard,Supplier A,Cork,Day,22.3,Pass,No Defect,0,100.0,17491.61
+2025-10-16,BATCH-0132,Livestock Feed,Supplier I,Dublin,Day,17.98,Pass,No Defect,0,87.6,9897.96
+2025-10-17,BATCH-0187,Dog Food Standard,Supplier F,Galway,Day,17.62,Fail,Packaging,3,69.2,14546.79
+2025-10-17,BATCH-0158,Dog Food Premium,Supplier D,Dublin,Day,18.9,Pass,No Defect,0,94.2,20100.53
+2025-10-18,BATCH-0831,Dog Food Standard,Supplier C,Dublin,Night,16.19,Pass,No Defect,0,93.9,12615.99
+2025-10-18,BATCH-0499,Cat Food Standard,Supplier A,Limerick,Day,19.1,Pass,No Defect,0,91.2,17461.07
+2025-10-19,BATCH-0771,Dog Food Premium,Supplier G,Dublin,Day,16.04,Pass,No Defect,0,98.0,15791.08
+2025-10-19,BATCH-0343,Livestock Feed,Supplier D,Galway,Day,24.73,Pass,No Defect,0,90.8,13733.25
+2025-10-19,BATCH-0671,Livestock Feed,Supplier A,Cork,Day,23.93,Pass,No Defect,0,94.1,13809.06
+2025-10-19,BATCH-0706,Dog Food Standard,Supplier H,Limerick,Day,23.35,Pass,No Defect,0,86.7,17838.68
+2025-10-20,BATCH-0578,Dog Food Standard,Supplier J,Dublin,Day,16.59,Pass,No Defect,0,90.7,12411.24
+2025-10-20,BATCH-0113,Dog Food Premium,Supplier A,Limerick,Day,16.62,Pass,No Defect,0,88.2,16849.1
+2025-10-20,BATCH-0200,Cat Food Standard,Supplier F,Galway,Day,23.83,Pass,No Defect,0,95.7,18721.33
+2025-10-20,BATCH-0143,Livestock Feed,Supplier I,Dublin,Night,19.18,Pass,No Defect,0,83.1,10561.77
+2025-10-20,BATCH-0988,Dog Food Standard,Supplier A,Cork,Day,15.49,Pass,No Defect,0,89.3,12868.04
+2025-10-20,BATCH-0949,Livestock Feed,Supplier B,Galway,Night,21.37,Pass,No Defect,0,90.2,9677.95
+2025-10-21,BATCH-0247,Livestock Feed,Supplier F,Limerick,Day,25.17,Fail,Packaging,6,71.9,16402.89
+2025-10-21,BATCH-0625,Cat Food Standard,Supplier I,Dublin,Night,18.12,Pass,No Defect,0,89.8,15117.04
+2025-10-22,BATCH-0103,Cat Food Premium,Supplier F,Cork,Day,21.5,Pass,No Defect,0,88.6,21832.43
+2025-10-22,BATCH-0339,Dog Food Premium,Supplier J,Cork,Day,21.58,Pass,No Defect,0,96.4,22479.06
+2025-10-22,BATCH-0114,Livestock Feed,Supplier H,Cork,Day,18.83,Pass,No Defect,0,85.9,12230.97
+2025-10-23,BATCH-0402,Dog Food Premium,Supplier D,Cork,Day,10.43,Pass,No Defect,0,88.2,10422.65
+2025-10-23,BATCH-0078,Dog Food Standard,Supplier H,Cork,Day,18.09,Pass,No Defect,0,95.8,15568.01
+2025-10-23,BATCH-0934,Dog Food Premium,Supplier G,Cork,Night,24.5,Pass,No Defect,0,89.1,25421.65
+2025-10-24,BATCH-0772,Cat Food Premium,Supplier A,Limerick,Night,19.44,Pass,No Defect,0,96.1,20295.98
+2025-10-24,BATCH-0219,Cat Food Premium,Supplier E,Dublin,Day,22.78,Pass,No Defect,0,92.2,26679.71
+2025-10-24,BATCH-0552,Dog Food Premium,Supplier E,Cork,Day,18.98,Pass,No Defect,0,91.2,20729.12
+2025-10-25,BATCH-0263,Cat Food Premium,Supplier E,Cork,Night,20.57,Pass,No Defect,0,95.8,22493.41
+2025-10-27,BATCH-0157,Cat Food Premium,Supplier G,Limerick,Night,19.96,Pass,No Defect,0,91.0,20731.78
+2025-10-27,BATCH-0540,Dog Food Standard,Supplier E,Dublin,Day,26.52,Pass,No Defect,0,92.2,18200.69
+2025-10-28,BATCH-0467,Cat Food Premium,Supplier G,Dublin,Night,17.84,Fail,Composition,2,59.3,19417.64
+2025-10-28,BATCH-0805,Dog Food Standard,Supplier B,Limerick,Day,18.69,Pass,No Defect,0,92.4,12736.49
+2025-10-28,BATCH-0064,Dog Food Standard,Supplier J,Galway,Day,18.89,Fail,Composition,15,55.7,14396.79
+2025-10-29,BATCH-0291,Dog Food Standard,Supplier C,Dublin,Day,20.94,Pass,No Defect,0,90.3,13906.52
+2025-10-29,BATCH-0501,Livestock Feed,Supplier G,Cork,Night,17.0,Pass,No Defect,0,97.0,9509.17
+2025-10-29,BATCH-0084,Cat Food Premium,Supplier J,Cork,Day,18.55,Pass,No Defect,0,82.7,20285.28
+2025-10-29,BATCH-0198,Cat Food Premium,Supplier B,Cork,Night,10.75,Pass,No Defect,0,88.6,10573.93
+2025-10-30,BATCH-0685,Dog Food Premium,Supplier H,Dublin,Day,14.14,Pass,No Defect,0,90.0,14001.94
+2025-10-30,BATCH-0145,Dog Food Standard,Supplier J,Dublin,Day,15.53,Pass,No Defect,0,96.0,10352.38
+2025-10-30,BATCH-0990,Cat Food Standard,Supplier I,Cork,Night,26.34,Pass,No Defect,0,94.8,22816.43
+2025-10-30,BATCH-0065,Dog Food Standard,Supplier F,Dublin,Night,18.64,Pass,No Defect,0,91.0,15135.88
+2025-10-30,BATCH-0891,Cat Food Standard,Supplier J,Dublin,Night,20.2,Pass,No Defect,0,89.6,14663.41
+2025-10-30,BATCH-0096,Cat Food Premium,Supplier J,Limerick,Day,24.23,Fail,Composition,5,72.5,22286.93
+2025-10-31,BATCH-0120,Cat Food Standard,Supplier I,Limerick,Day,18.97,Pass,No Defect,0,90.1,15374.8
+2025-10-31,BATCH-0566,Cat Food Standard,Supplier F,Dublin,Night,7.89,Fail,Composition,15,67.9,6421.85
+2025-10-31,BATCH-0259,Dog Food Premium,Supplier D,Limerick,Day,14.73,Pass,No Defect,0,88.4,13908.95
+2025-10-31,BATCH-0006,Dog Food Standard,Supplier G,Cork,Night,19.32,Pass,No Defect,0,95.5,16586.34
+2025-10-31,BATCH-0519,Cat Food Premium,Supplier D,Limerick,Night,20.21,Pass,No Defect,0,95.1,19129.37
+2025-11-01,BATCH-0784,Dog Food Standard,Supplier A,Galway,Day,11.86,Pass,No Defect,0,94.7,8592.85
+2025-11-01,BATCH-0135,Livestock Feed,Supplier C,Limerick,Day,22.31,Pass,No Defect,0,85.9,15525.79
+2025-11-02,BATCH-0058,Livestock Feed,Supplier F,Limerick,Day,15.18,Pass,No Defect,0,91.6,11724.36
+2025-11-02,BATCH-0456,Dog Food Premium,Supplier A,Galway,Night,23.53,Pass,No Defect,0,95.3,24360.66
+2025-11-02,BATCH-0648,Cat Food Standard,Supplier E,Dublin,Day,15.33,Pass,No Defect,0,93.1,12709.41
+2025-11-02,BATCH-0746,Livestock Feed,Supplier I,Galway,Night,17.21,Pass,No Defect,0,92.0,9539.74
+2025-11-02,BATCH-0947,Cat Food Standard,Supplier H,Dublin,Night,14.44,Pass,No Defect,0,90.6,11316.52
+2025-11-03,BATCH-0737,Dog Food Standard,Supplier B,Dublin,Day,11.96,Pass,No Defect,0,97.6,8076.88
+2025-11-03,BATCH-0792,Cat Food Premium,Supplier A,Dublin,Day,18.28,Pass,No Defect,0,92.4,18843.18
+2025-11-03,BATCH-0857,Livestock Feed,Supplier F,Dublin,Night,11.07,Pass,No Defect,0,100.0,6882.84
+2025-11-04,BATCH-0060,Cat Food Premium,Supplier A,Galway,Day,9.48,Pass,No Defect,0,100.0,9922.4
+2025-11-05,BATCH-0872,Cat Food Standard,Supplier E,Dublin,Day,17.67,Fail,Moisture,8,66.2,14109.76
+2025-11-05,BATCH-0129,Dog Food Premium,Supplier B,Galway,Day,20.46,Pass,No Defect,0,97.0,18785.49
+2025-11-06,BATCH-0102,Cat Food Standard,Supplier C,Dublin,Night,24.71,Fail,Composition,11,66.1,18951.91
+2025-11-06,BATCH-0161,Cat Food Premium,Supplier H,Cork,Day,20.01,Fail,Packaging,5,71.7,21610.36
+2025-11-06,BATCH-0317,Cat Food Premium,Supplier D,Dublin,Day,18.39,Pass,No Defect,0,86.7,20979.6
+2025-11-07,BATCH-0842,Cat Food Standard,Supplier B,Limerick,Day,28.18,Pass,No Defect,0,88.0,23713.26
+2025-11-07,BATCH-0686,Dog Food Premium,Supplier D,Cork,Night,18.4,Pass,No Defect,0,90.6,16746.06
+2025-11-07,BATCH-0919,Dog Food Premium,Supplier G,Dublin,Day,12.63,Pass,No Defect,0,90.8,13592.33
+2025-11-07,BATCH-0866,Cat Food Standard,Supplier I,Dublin,Day,14.17,Pass,No Defect,0,94.3,11227.23
+2025-11-08,BATCH-0341,Cat Food Standard,Supplier I,Limerick,Day,8.96,Pass,No Defect,0,93.1,8063.15
+2025-11-09,BATCH-0207,Dog Food Premium,Supplier I,Dublin,Day,24.13,Pass,No Defect,0,95.1,23502.4
+2025-11-09,BATCH-0607,Dog Food Premium,Supplier D,Cork,Day,17.25,Pass,No Defect,0,92.4,16380.1
+2025-11-10,BATCH-0326,Cat Food Premium,Supplier B,Cork,Day,17.33,Pass,No Defect,0,90.8,15693.34
+2025-11-10,BATCH-1000,Dog Food Premium,Supplier E,Limerick,Day,12.89,Pass,No Defect,0,90.1,11814.94
+2025-11-10,BATCH-0623,Dog Food Premium,Supplier C,Galway,Day,21.24,Pass,No Defect,0,91.2,21210.71
+2025-11-11,BATCH-0358,Cat Food Premium,Supplier E,Limerick,Day,21.46,Pass,No Defect,0,83.6,24589.78
+2025-11-11,BATCH-0728,Dog Food Standard,Supplier B,Dublin,Day,18.33,Pass,No Defect,0,96.6,13055.97
+2025-11-12,BATCH-0966,Livestock Feed,Supplier G,Dublin,Day,7.82,Pass,No Defect,0,80.7,5458.74
+2025-11-12,BATCH-0274,Cat Food Premium,Supplier H,Galway,Day,17.16,Pass,No Defect,0,99.9,18223.39
+2025-11-12,BATCH-0497,Dog Food Standard,Supplier F,Limerick,Night,18.67,Pass,No Defect,0,96.9,15610.31
+2025-11-13,BATCH-0719,Dog Food Standard,Supplier D,Cork,Day,16.54,Pass,No Defect,0,89.5,11885.73
+2025-11-14,BATCH-0106,Livestock Feed,Supplier C,Galway,Night,22.17,Pass,No Defect,0,91.1,14356.2
+2025-11-14,BATCH-0985,Dog Food Premium,Supplier J,Limerick,Day,15.1,Pass,No Defect,0,100.0,17035.28
+2025-11-14,BATCH-0683,Livestock Feed,Supplier D,Galway,Day,25.06,Pass,No Defect,0,92.9,17419.24
+2025-11-14,BATCH-0346,Cat Food Standard,Supplier J,Galway,Day,14.0,Pass,No Defect,0,100.0,12745.39
+2025-11-15,BATCH-0092,Dog Food Premium,Supplier H,Limerick,Night,22.17,Pass,No Defect,0,83.7,19962.04
+2025-11-15,BATCH-0853,Cat Food Standard,Supplier A,Cork,Day,15.95,Pass,No Defect,0,95.4,12907.57
+2025-11-15,BATCH-0327,Cat Food Premium,Supplier C,Galway,Night,18.19,Pass,No Defect,0,88.9,19845.29
+2025-11-16,BATCH-0643,Dog Food Premium,Supplier F,Galway,Day,18.52,Fail,Microbiological,15,74.9,19837.1
+2025-11-16,BATCH-0942,Dog Food Standard,Supplier B,Dublin,Night,18.37,Pass,No Defect,0,86.5,16768.79
+2025-11-17,BATCH-0714,Livestock Feed,Supplier I,Dublin,Night,20.38,Pass,No Defect,0,93.5,10499.5
+2025-11-17,BATCH-0246,Dog Food Premium,Supplier J,Limerick,Night,24.68,Pass,No Defect,0,89.4,23977.85
+2025-11-17,BATCH-0959,Dog Food Premium,Supplier H,Cork,Day,28.53,Pass,No Defect,0,91.5,23308.31
+2025-11-18,BATCH-0780,Cat Food Premium,Supplier F,Dublin,Night,19.59,Pass,No Defect,0,83.3,19811.86
+2025-11-18,BATCH-0320,Dog Food Standard,Supplier B,Galway,Day,27.74,Pass,No Defect,0,91.6,20152.81
+2025-11-19,BATCH-0119,Dog Food Standard,Supplier B,Cork,Night,18.32,Pass,No Defect,0,96.4,13222.07
+2025-11-19,BATCH-0621,Dog Food Standard,Supplier I,Dublin,Day,21.66,Pass,No Defect,0,95.7,17803.51
+2025-11-19,BATCH-0647,Dog Food Premium,Supplier H,Dublin,Day,20.08,Pass,No Defect,0,89.3,19345.85
+2025-11-20,BATCH-0733,Cat Food Premium,Supplier I,Cork,Day,22.51,Pass,No Defect,0,93.5,21967.11
+2025-11-20,BATCH-0085,Cat Food Standard,Supplier E,Galway,Day,27.43,Pass,No Defect,0,86.6,22795.24
+2025-11-21,BATCH-0977,Cat Food Premium,Supplier A,Dublin,Day,16.46,Fail,Moisture,8,61.2,17839.29
+2025-11-21,BATCH-0806,Dog Food Standard,Supplier C,Dublin,Day,23.76,Pass,No Defect,0,89.6,16322.07
+2025-11-21,BATCH-0376,Dog Food Premium,Supplier I,Dublin,Day,30.65,Pass,No Defect,0,98.5,31185.31
+2025-11-21,BATCH-0037,Cat Food Standard,Supplier H,Limerick,Night,20.66,Pass,No Defect,0,96.7,17869.79
+2025-11-21,BATCH-0600,Dog Food Premium,Supplier F,Cork,Night,13.73,Pass,No Defect,0,100.0,13532.04
+2025-11-21,BATCH-0747,Cat Food Premium,Supplier C,Cork,Day,22.94,Pass,No Defect,0,91.5,21169.53
+2025-11-21,BATCH-0432,Dog Food Standard,Supplier I,Cork,Day,17.67,Pass,No Defect,0,96.8,13776.8
+2025-11-22,BATCH-0321,Dog Food Standard,Supplier D,Dublin,Day,12.97,Pass,No Defect,0,91.5,8848.63
+2025-11-23,BATCH-0875,Dog Food Premium,Supplier J,Dublin,Day,18.72,Pass,No Defect,0,98.8,15309.2
+2025-11-23,BATCH-0401,Dog Food Standard,Supplier A,Cork,Night,19.5,Pass,No Defect,0,85.0,13994.44
+2025-11-23,BATCH-0901,Cat Food Standard,Supplier E,Dublin,Day,11.42,Pass,No Defect,0,88.8,9336.72
+2025-11-23,BATCH-0047,Livestock Feed,Supplier D,Cork,Night,13.6,Pass,No Defect,0,97.9,7785.96
+2025-11-23,BATCH-0090,Cat Food Premium,Supplier G,Cork,Night,29.28,Pass,No Defect,0,92.6,29736.33
+2025-11-24,BATCH-0314,Dog Food Premium,Supplier A,Dublin,Day,21.38,Pass,No Defect,0,92.4,20776.2
+2025-11-24,BATCH-0940,Cat Food Premium,Supplier G,Galway,Night,12.15,Pass,No Defect,0,94.1,12905.8
+2025-11-24,BATCH-0496,Dog Food Standard,Supplier A,Dublin,Day,14.61,Pass,No Defect,0,90.0,11006.31
+2025-11-25,BATCH-0117,Livestock Feed,Supplier E,Dublin,Night,23.42,Pass,No Defect,0,94.2,13325.2
+2025-11-25,BATCH-0559,Dog Food Premium,Supplier B,Cork,Night,29.4,Pass,No Defect,0,100.0,26737.5
+2025-11-25,BATCH-0418,Dog Food Standard,Supplier C,Galway,Night,18.72,Pass,No Defect,0,87.6,12959.53
+2025-11-26,BATCH-0528,Livestock Feed,Supplier J,Dublin,Day,18.09,Fail,Moisture,8,80.5,11728.79
+2025-11-26,BATCH-0816,Cat Food Standard,Supplier C,Limerick,Day,24.01,Pass,No Defect,0,95.2,19496.98
+2025-11-26,BATCH-0453,Cat Food Premium,Supplier J,Dublin,Day,15.26,Pass,No Defect,0,89.9,15530.19
+2025-11-26,BATCH-0537,Cat Food Standard,Supplier I,Dublin,Day,19.49,Pass,No Defect,0,92.8,14591.11
+2025-11-27,BATCH-0778,Dog Food Standard,Supplier I,Galway,Day,28.05,Pass,No Defect,0,84.5,22633.2
+2025-11-28,BATCH-0411,Dog Food Premium,Supplier B,Dublin,Day,17.59,Pass,No Defect,0,90.6,17045.68
+2025-11-29,BATCH-0819,Dog Food Premium,Supplier C,Dublin,Day,14.81,Pass,No Defect,0,98.7,15738.66
+2025-11-29,BATCH-0170,Cat Food Premium,Supplier I,Dublin,Day,6.32,Pass,No Defect,0,92.6,6446.67
+2025-11-30,BATCH-0680,Cat Food Premium,Supplier B,Limerick,Day,21.82,Pass,No Defect,0,87.1,20873.85
+2025-11-30,BATCH-0192,Dog Food Standard,Supplier I,Dublin,Day,17.77,Pass,No Defect,0,88.9,15683.43
+2025-11-30,BATCH-0928,Cat Food Standard,Supplier F,Limerick,Day,17.79,Pass,No Defect,0,95.4,13013.92
+2025-11-30,BATCH-0984,Cat Food Standard,Supplier I,Limerick,Day,24.54,Pass,No Defect,0,93.1,20202.06
+2025-12-01,BATCH-0986,Cat Food Standard,Supplier E,Limerick,Night,16.64,Pass,No Defect,0,87.6,13181.59
+2025-12-01,BATCH-0072,Cat Food Premium,Supplier J,Dublin,Night,14.18,Pass,No Defect,0,92.8,13353.41
+2025-12-02,BATCH-0896,Livestock Feed,Supplier G,Dublin,Day,18.53,Pass,No Defect,0,81.2,11384.23
+2025-12-02,BATCH-0470,Dog Food Premium,Supplier G,Cork,Day,14.56,Pass,No Defect,0,95.3,14393.5
+2025-12-02,BATCH-0516,Cat Food Standard,Supplier J,Dublin,Day,10.5,Pass,No Defect,0,86.4,8552.14
+2025-12-02,BATCH-0658,Dog Food Standard,Supplier J,Cork,Day,22.85,Pass,No Defect,0,91.4,18012.22
+2025-12-03,BATCH-0310,Cat Food Standard,Supplier G,Cork,Day,5.82,Pass,No Defect,0,93.8,4822.72
+2025-12-03,BATCH-0572,Cat Food Standard,Supplier I,Galway,Day,17.17,Pass,No Defect,0,89.4,15194.78
+2025-12-04,BATCH-0513,Cat Food Standard,Supplier C,Cork,Night,20.91,Pass,No Defect,0,94.8,16142.59
+2025-12-04,BATCH-0786,Livestock Feed,Supplier C,Dublin,Day,21.06,Pass,No Defect,0,97.2,11820.66
+2025-12-04,BATCH-0243,Dog Food Standard,Supplier D,Cork,Day,13.06,Pass,No Defect,0,91.2,9822.75
+2025-12-05,BATCH-0915,Dog Food Standard,Supplier J,Limerick,Day,9.48,Pass,No Defect,0,93.1,6025.16
+2025-12-05,BATCH-0357,Cat Food Premium,Supplier C,Cork,Night,11.0,Pass,No Defect,0,94.0,11792.65
+2025-12-05,BATCH-0311,Cat Food Standard,Supplier C,Dublin,Night,16.21,Pass,No Defect,0,85.9,14158.19
+2025-12-06,BATCH-0698,Dog Food Premium,Supplier I,Cork,Day,21.62,Pass,No Defect,0,95.3,21266.93
+2025-12-07,BATCH-0954,Cat Food Standard,Supplier H,Dublin,Night,26.85,Pass,No Defect,0,84.5,22338.41
+2025-12-07,BATCH-0173,Dog Food Standard,Supplier I,Cork,Day,12.34,Pass,No Defect,0,100.0,9997.61
+2025-12-07,BATCH-0529,Dog Food Standard,Supplier G,Cork,Day,14.95,Pass,No Defect,0,89.1,12775.12
+2025-12-07,BATCH-0324,Livestock Feed,Supplier D,Cork,Night,27.83,Fail,Packaging,1,72.9,18155.93
+2025-12-07,BATCH-0589,Cat Food Standard,Supplier D,Cork,Day,22.12,Pass,No Defect,0,100.0,19609.41
+2025-12-08,BATCH-0930,Dog Food Standard,Supplier G,Galway,Day,22.62,Pass,No Defect,0,96.8,16168.53
+2025-12-08,BATCH-0862,Dog Food Premium,Supplier D,Galway,Night,16.88,Pass,No Defect,0,91.5,17553.85
+2025-12-08,BATCH-0169,Cat Food Standard,Supplier G,Cork,Day,14.86,Pass,No Defect,0,84.2,11449.66
+2025-12-09,BATCH-0855,Dog Food Standard,Supplier B,Galway,Day,9.32,Pass,No Defect,0,93.8,7221.34
+2025-12-09,BATCH-0465,Dog Food Standard,Supplier E,Cork,Day,13.94,Pass,No Defect,0,94.7,10553.39
+2025-12-09,BATCH-0016,Dog Food Standard,Supplier A,Galway,Night,27.83,Pass,No Defect,0,93.4,17911.54
+2025-12-10,BATCH-0899,Cat Food Premium,Supplier G,Dublin,Night,18.88,Pass,No Defect,0,94.8,21240.73
+2025-12-10,BATCH-0215,Cat Food Standard,Supplier F,Limerick,Day,23.33,Fail,Composition,7,75.0,20244.05
+2025-12-10,BATCH-0760,Livestock Feed,Supplier C,Cork,Night,15.04,Fail,Packaging,12,71.6,11182.38
+2025-12-10,BATCH-0688,Cat Food Standard,Supplier B,Galway,Day,20.4,Pass,No Defect,0,95.4,17620.22
+2025-12-11,BATCH-0924,Cat Food Standard,Supplier H,Galway,Day,20.05,Pass,No Defect,0,93.4,17242.95
+2025-12-11,BATCH-0748,Livestock Feed,Supplier J,Dublin,Day,8.07,Pass,No Defect,0,96.9,4707.11
+2025-12-11,BATCH-0144,Livestock Feed,Supplier B,Limerick,Day,9.91,Pass,No Defect,0,93.3,7063.45
+2025-12-11,BATCH-0998,Cat Food Standard,Supplier D,Galway,Day,18.8,Pass,No Defect,0,89.6,14631.23
+2025-12-11,BATCH-0360,Cat Food Standard,Supplier J,Cork,Night,11.32,Pass,No Defect,0,90.1,9018.08
+2025-12-12,BATCH-0586,Cat Food Standard,Supplier J,Dublin,Day,18.51,Pass,No Defect,0,94.9,14641.97
+2025-12-12,BATCH-0020,Livestock Feed,Supplier D,Cork,Day,17.27,Fail,Composition,5,64.2,10894.56
+2025-12-13,BATCH-0088,Dog Food Standard,Supplier C,Dublin,Day,14.41,Pass,No Defect,0,95.2,11734.83
+2025-12-13,BATCH-0580,Dog Food Standard,Supplier J,Dublin,Day,20.88,Pass,No Defect,0,96.4,15681.59
+2025-12-14,BATCH-0843,Livestock Feed,Supplier J,Galway,Day,26.04,Pass,No Defect,0,95.6,15830.93
+2025-12-15,BATCH-0035,Dog Food Standard,Supplier J,Cork,Night,14.98,Fail,Microbiological,5,71.8,10891.13
+2025-12-15,BATCH-0629,Cat Food Standard,Supplier F,Galway,Day,12.68,Pass,No Defect,0,89.4,10512.62
+2025-12-16,BATCH-0070,Dog Food Premium,Supplier H,Limerick,Day,19.35,Pass,No Defect,0,82.9,18904.67
+2025-12-17,BATCH-0288,Cat Food Standard,Supplier A,Dublin,Night,22.94,Pass,No Defect,0,96.6,18706.26
+2025-12-18,BATCH-0665,Cat Food Premium,Supplier A,Limerick,Day,11.54,Pass,No Defect,0,87.6,12306.13
+2025-12-18,BATCH-0932,Dog Food Standard,Supplier A,Cork,Day,5.0,Pass,No Defect,0,92.9,3822.57
+2025-12-18,BATCH-0139,Cat Food Premium,Supplier C,Dublin,Day,16.15,Pass,No Defect,0,86.6,16631.31
+2025-12-19,BATCH-0793,Cat Food Premium,Supplier J,Dublin,Day,12.51,Fail,Microbiological,4,72.5,11211.0
+2025-12-20,BATCH-0525,Dog Food Premium,Supplier C,Cork,Day,14.69,Pass,No Defect,0,85.7,14762.12
+2025-12-21,BATCH-0978,Dog Food Standard,Supplier H,Limerick,Day,5.0,Pass,No Defect,0,96.9,4132.56
+2025-12-21,BATCH-0032,Cat Food Premium,Supplier D,Dublin,Night,17.46,Pass,No Defect,0,86.8,17823.64
+2025-12-21,BATCH-0468,Dog Food Premium,Supplier C,Galway,Day,22.79,Pass,No Defect,0,92.5,22404.84
+2025-12-22,BATCH-0882,Livestock Feed,Supplier F,Cork,Day,10.21,Pass,No Defect,0,96.1,5880.08
+2025-12-22,BATCH-0761,Cat Food Premium,Supplier A,Limerick,Day,8.56,Pass,No Defect,0,80.5,8317.57
+2025-12-23,BATCH-0571,Dog Food Premium,Supplier F,Cork,Day,16.15,Pass,No Defect,0,92.9,15287.34
+2025-12-23,BATCH-0488,Cat Food Standard,Supplier H,Cork,Day,20.16,Pass,No Defect,0,82.4,17593.47
+2025-12-23,BATCH-0127,Cat Food Premium,Supplier F,Galway,Day,13.35,Pass,No Defect,0,96.7,13392.48
+2025-12-23,BATCH-0661,Cat Food Premium,Supplier A,Limerick,Day,19.83,Pass,No Defect,0,98.1,19730.27
+2025-12-24,BATCH-0579,Dog Food Premium,Supplier B,Cork,Day,19.81,Pass,No Defect,0,95.6,19919.66
+2025-12-24,BATCH-0366,Livestock Feed,Supplier D,Cork,Day,20.72,Pass,No Defect,0,85.8,11332.28
+2025-12-26,BATCH-0668,Dog Food Standard,Supplier F,Cork,Day,24.72,Pass,No Defect,0,88.6,20705.36
+2025-12-26,BATCH-0864,Livestock Feed,Supplier H,Galway,Day,19.87,Pass,No Defect,0,92.6,11383.89
+2025-12-27,BATCH-0471,Dog Food Premium,Supplier G,Galway,Night,18.21,Pass,No Defect,0,91.0,19191.63
+2025-12-27,BATCH-0077,Cat Food Standard,Supplier C,Dublin,Night,19.8,Pass,No Defect,0,83.2,15915.0
+2025-12-28,BATCH-0238,Livestock Feed,Supplier A,Galway,Day,30.42,Pass,No Defect,0,92.8,17577.29
+2025-12-28,BATCH-0575,Cat Food Standard,Supplier C,Dublin,Day,15.2,Pass,No Defect,0,88.2,10606.97
+2025-12-28,BATCH-0931,Cat Food Standard,Supplier D,Dublin,Day,5.0,Pass,No Defect,0,90.0,3977.17
+2025-12-29,BATCH-0495,Dog Food Standard,Supplier J,Dublin,Day,15.24,Pass,No Defect,0,94.7,12498.47
+2025-12-29,BATCH-0066,Cat Food Premium,Supplier B,Cork,Day,14.22,Pass,No Defect,0,93.9,13717.53
+2025-12-29,BATCH-0240,Dog Food Premium,Supplier I,Cork,Day,16.4,Pass,No Defect,0,100.0,15288.71
+2025-12-30,BATCH-0412,Dog Food Standard,Supplier J,Cork,Day,9.33,Pass,No Defect,0,92.1,7281.67
+2025-12-31,BATCH-0251,Livestock Feed,Supplier H,Limerick,Day,17.21,Pass,No Defect,0,91.5,10516.83
+2025-12-31,BATCH-0745,Dog Food Standard,Supplier B,Limerick,Day,10.26,Pass,No Defect,0,94.4,7562.18
+2025-12-31,BATCH-0104,Dog Food Premium,Supplier I,Galway,Day,17.83,Pass,No Defect,0,92.5,19367.8
+2025-12-31,BATCH-0355,Cat Food Premium,Supplier A,Limerick,Night,17.82,Pass,No Defect,0,91.2,18458.42
+2025-12-31,BATCH-0373,Livestock Feed,Supplier E,Cork,Night,23.01,Pass,No Defect,0,90.9,13053.66
+2025-12-31,BATCH-0154,Cat Food Standard,Supplier H,Dublin,Day,24.69,Pass,No Defect,0,95.0,22595.85
