@@ -31,5 +31,5 @@ Inspired by quality control environments within the animal nutrition industry, t
 
 ## Status
 
-Project in development# manufacturing-quality-performance-dashboard
+Project in development
 Manufacturing quality and KPI analytics dashboard focused on production performance, defect monitoring and process improvement.
