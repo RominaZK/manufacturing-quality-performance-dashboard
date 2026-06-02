@@ -1,35 +1,39 @@
-# Manufacturing & Quality Performance Dashboard
+# Manufacturing Quality Performance Dashboard
 
 ## Overview
 
-This project demonstrates how analytics and business intelligence can be used to monitor manufacturing performance, quality metrics and process improvement opportunities.
+Interactive Power BI dashboard developed to monitor manufacturing performance, quality KPIs, defect trends, and operational metrics.
 
-Inspired by quality control environments within the animal nutrition industry, the dashboard focuses on operational KPIs, defect monitoring, supplier performance and quality management.
+## Key Features
 
-## Objectives
+* Production volume monitoring
+* Pass rate and quality performance tracking
+* Defect category analysis
+* Monthly production trend visualization
+* KPI reporting through DAX measures
+* Interactive filtering capabilities
 
-- Monitor production performance
-- Track quality KPIs
-- Analyse defect trends
-- Identify process improvement opportunities
-- Support data-driven decision making
+## Tools Used
 
-## Key Metrics
+* Power BI
+* DAX
+* Power Query
+* Data Modeling
 
-- Production Volume
-- Quality Pass Rate
-- Defect Rate
-- Supplier Performance
-- Resolution Time
-- Inspection Scores
+## Business Value
 
-## Tools
+This dashboard supports operational monitoring, quality management, and continuous improvement initiatives by providing actionable insights into manufacturing performance and defect patterns.
 
-- Power BI
-- Excel
-- Data Analytics
+## Key Insights
 
-## Status
+* Pass Rate: 90.7%
+* Quality Failures: 93 batches
+* Packaging and Composition defects represent the largest share of quality issues
+* Monthly production trends highlight operational variability throughout the year
 
-Project in development
-Manufacturing quality and KPI analytics dashboard focused on production performance, defect monitoring and process improvement.
+## Dashboard Preview
+
+
+
+
+(Insert dashboard screenshot here)
