@@ -33,7 +33,7 @@ This dashboard supports operational monitoring, quality management, and continuo
 
 ## Dashboard Preview
 
-
+![Dashboard Preview](/dashboard_overview.png)
 
 
 (Insert dashboard screenshot here)
